@@ -18,4 +18,5 @@ Algunos bugs:
 -Hay 2 pdf para guiarse, uno de consigna y otro de pruebas.
 
 
-Para compilar usar el comando "make", para limpiar "make clean", para ejecutar "./main.out parametro1 parametro2" el primer parametro siempre es el nivel de log (menos para la consola) este es un valor entre 1 y 4, 2 es nivel INFO (ver logs de las commons) y el se gundo parametro es el path al archivo de configuracion (quiza algun modulo requiere un tercer parametro, pero no creo).
+Para compilar usar el comando "make", para limpiar "make clean", para ejecutar "./main.out parametro1 parametro2" para memoria, kernel y cpu el primer parametro siempre es el nivel de log este es un valor entre 1 y 4, 2 es nivel INFO (ver logs de las commons) y el se gundo parametro es el path al archivo de configuracion (quiza algun modulo requiere un tercer parametro, pero no creo).
+Para las consolas el primer parametro es el tamaño del proceso y el segundo es el archivo de configuracion.
