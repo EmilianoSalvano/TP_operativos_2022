@@ -12,3 +12,12 @@ por mas que no se ejecute nada.
 Esto causa que la rafaga estimada del proceso sea muy corta, supuestamente es una boludez de arreglar (pero como no hice el kernel no lo hago).
 
 -Si no existe la direccion de la ruta para crear los archivos SWAP de memoria, va a romper.
+
+
+
+-En la carpeta config estan los archivos de configuracion (algunos estan medio como el orto y pueden causar seg fault), recordar modificar la IP.
+-En carpeta-PRUEBAS estan los archivos de proceso que usa la consola.
+-Hay 2 pdf para guiarse, uno de consigna y otro de pruebas.
+
+
+Para compilar usar el comando "make", para limpiar "make clean", para ejecutar "./main.out parametro1 parametro2 ..." depende el modulo los parametros, el primer parametro siempre es el nivel de log (menos para la consola) este es un valor entre 1 y 4, 2 es nivel INFO (ver logs de las commons).
