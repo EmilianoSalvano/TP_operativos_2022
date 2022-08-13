@@ -1,0 +1,60 @@
+[ERROR] 20:41:30:090 kernel.test/(20567:20567): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 20:45:23:006 kernel.test/(20567:20567): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 20:56:53:181 kernel.test/(21580:21580): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 20:57:43:774 kernel.test/(21580:21580): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 21:05:13:700 kernel.test/(22278:22278): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 21:08:54:177 kernel.test/(22278:22278): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 22:38:35:312 kernel.test/(25790:25790): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 22:41:01:799 kernel.test/(25790:25790): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[WARNING] 22:42:34:886 kernel.test/(25790:25816): Conexion rechazada por codigo de proceso tipo:[-1209202121] no permitido
+[ERROR] 22:44:09:577 kernel.test/(26202:26202): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[ERROR] 22:49:18:069 kernel.test/(26689:26689): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[ERROR] 22:51:21:822 kernel.test/(26909:26909): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 22:54:00:871 kernel.test/(26909:26909): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 22:58:01:613 kernel.test/(27438:27438): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 22:58:46:673 kernel.test/(27438:27438): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 23:18:55:042 kernel.test/(28896:28896): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 23:19:38:370 kernel.test/(28896:28896): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[ERROR] 23:41:20:426 kernel.test/(30561:30561): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 23:41:38:619 kernel.test/(30561:30561): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[INFO] 23:42:23:486 kernel.test/(30561:30597): Conexion aceptada de proceso tipo:[1]
+[ERROR] 23:43:49:571 kernel.test/(30796:30796): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 23:44:03:363 kernel.test/(30796:30796): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[INFO] 23:44:19:831 kernel.test/(30796:30816): Conexion aceptada de proceso tipo:[1]
+[ERROR] 23:49:06:019 kernel.test/(31228:31228): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 23:49:12:648 kernel.test/(31228:31228): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[INFO] 23:49:17:552 kernel.test/(31228:31248): Conexion aceptada de proceso tipo:[1]
+[ERROR] 18:49:36:790 kernel.test/(4613:4613): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 18:51:45:675 kernel.test/(4613:4613): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[INFO] 18:53:02:820 kernel.test/(4613:4799): Conexion aceptada de proceso tipo:[1]
+[ERROR] 18:57:44:185 kernel.test/(5948:5948): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+
+[INFO] 18:57:50:880 kernel.test/(5948:5948): Cliente conectado a servidor ip:[127.0.0.1] puerto:[4443]. handler->socket=[6]
+
+[INFO] 18:57:57:462 kernel.test/(5948:5969): Conexion aceptada de proceso tipo:[1]
+[ERROR] 19:02:09:482 kernel.test/(6568:6568): Servidor iniciado y escuchando en ip:[127.0.0.1] puerto:[4443]. socket:[4]
+

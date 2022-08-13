@@ -1,0 +1,36 @@
+MEMORIA
+./main.out 2 ../config/base/memoria.config
+./main.out 2 ../config/planificacion/memoria.config
+./main.out 2 ../config/suspension/memoria.config
+./main.out 2 ../config/integral/memoria.config
+
+CPU
+./main.out 2 ../config/base/cpu.config
+./main.out 2 ../config/planificacion/cpu.config
+./main.out 2 ../config/suspension/cpu.config
+./main.out 2 ../config/integral/cpu.config
+
+KERNEL
+./main.out 2 ../config/base/kernel.config
+./main.out 2 ../config/planificacion/kernel.fifo.config
+./main.out 2 ../config/planificacion/kernel.srt.config
+./main.out 2 ../config/suspension/kernel.config
+./main.out 2 ../config/integral/kernel.config
+
+CONSOLA
+./main.out 1024 ../dataset/BASE_1
+./main.out 1024 ../dataset/BASE_2
+
+./main.out 1024 ../dataset/PLANI_1
+./main.out 1024 ../dataset/PLANI_1
+./main.out 1024 ../dataset/PLANI_2
+
+./main.out 1024 ../dataset/SUSPE_1
+./main.out 1024 ../dataset/SUSPE_2
+./main.out 1024 ../dataset/SUSPE_3
+
+./main.out 2048 ../dataset/INTEGRAL_1
+./main.out 2048 ../dataset/INTEGRAL_2
+./main.out 2048 ../dataset/INTEGRAL_3
+./main.out 2048 ../dataset/INTEGRAL_4
+./main.out 2048 ../dataset/INTEGRAL_5

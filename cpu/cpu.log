@@ -1,0 +1,2278 @@
+[ERROR] 17:50:05:815 cpu/(4803:4803): No se pudo establecer conexion con el modulo de memoria. error:[111] msg:[Connection refused]
+
+[INFO] 17:50:36:434 cpu/(4888:4888): conexion con memoria establecida
+
+[INFO] 17:50:36:435 cpu/(4888:4888): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+
+[INFO] 17:50:36:435 cpu/(4888:4888): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+
+[INFO] 17:52:31:454 cpu/(4986:4986): conexion con memoria establecida
+
+[INFO] 17:52:31:454 cpu/(4986:4986): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+
+[INFO] 17:52:31:454 cpu/(4986:4986): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+
+[INFO] 17:55:19:628 cpu/(5315:5315): conexion con memoria establecida
+
+[INFO] 17:55:19:630 cpu/(5315:5315): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+
+[INFO] 17:55:19:631 cpu/(5315:5315): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+
+[ERROR] 17:57:25:273 cpu/(5892:5892): No se pudo establecer conexion con el modulo de memoria. error:[111] msg:[Connection refused]
+
+[ERROR] 17:58:36:686 cpu/(5975:5975): No se pudo establecer conexion con el modulo de memoria. error:[111] msg:[Connection refused]
+
+[INFO] 17:59:03:446 cpu/(6006:6006): conexion con memoria establecida
+
+[INFO] 17:59:03:447 cpu/(6006:6006): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+
+[INFO] 17:59:03:447 cpu/(6006:6006): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+
+[INFO] 17:59:03:448 cpu/(6006:6009): Servidor 'interrupt' preparado y escuchando ...
+
+[INFO] 17:59:03:448 cpu/(6006:6008): Servidor 'dispatch' preparado y escuchando ...
+
+[INFO] 02:26:05:529 cpu/(4890:4890): conexion con memoria establecida
+[INFO] 02:26:05:533 cpu/(4890:4890): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 02:26:05:534 cpu/(4890:4890): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 02:26:05:535 cpu/(4890:4893): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 02:26:05:535 cpu/(4890:4894): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 02:26:21:790 cpu/(4890:4932): Conexion aceptada con kernel en socket:[8]
+[INFO] 02:26:21:791 cpu/(4890:4894): El servidor 'interrupt' desconectado
+[INFO] 02:26:21:793 cpu/(4890:4933): Conexion aceptada con kernel en socket:[7]
+[INFO] 02:26:21:794 cpu/(4890:4893): El servidor 'dispatch' desconectado
+[INFO] 02:28:57:339 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:28:58:341 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:28:59:341 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:00:342 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:01:343 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:02:344 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:03:345 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:04:346 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:05:346 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:06:348 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:06:348 cpu/(4890:4933): pid:[1] execute :: WRITE(0, 1)
+[INFO] 02:29:08:350 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:09:351 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:09:352 cpu/(4890:4933): pid:[1] execute :: WRITE(4, 2)
+[INFO] 02:29:10:352 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:11:352 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:11:352 cpu/(4890:4933): pid:[1] execute :: WRITE(8, 3)
+[INFO] 02:29:12:354 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:13:355 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:13:355 cpu/(4890:4933): pid:[1] execute :: WRITE(12, 4)
+[INFO] 02:29:14:356 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:15:356 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:15:357 cpu/(4890:4933): pid:[1] execute :: WRITE(16, 5)
+[INFO] 02:29:16:357 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:17:358 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:17:359 cpu/(4890:4933): pid:[1] execute :: WRITE(256, 11)
+[INFO] 02:29:19:361 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:20:364 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:20:364 cpu/(4890:4933): pid:[1] execute :: WRITE(260, 12)
+[INFO] 02:29:21:364 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:22:366 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:22:366 cpu/(4890:4933): pid:[1] execute :: WRITE(264, 13)
+[INFO] 02:29:23:367 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:24:368 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:24:368 cpu/(4890:4933): pid:[1] execute :: WRITE(268, 14)
+[INFO] 02:29:25:369 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:26:370 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:26:370 cpu/(4890:4933): pid:[1] execute :: WRITE(272, 15)
+[INFO] 02:29:27:371 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:28:371 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:28:372 cpu/(4890:4933): pid:[1] execute :: WRITE(512, 21)
+[INFO] 02:29:30:373 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:31:374 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:31:374 cpu/(4890:4933): pid:[1] execute :: WRITE(516, 22)
+[INFO] 02:29:32:375 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:33:376 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:33:377 cpu/(4890:4933): pid:[1] execute :: WRITE(520, 23)
+[INFO] 02:29:34:378 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:35:379 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:35:379 cpu/(4890:4933): pid:[1] execute :: WRITE(524, 24)
+[INFO] 02:29:36:380 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:37:380 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:37:381 cpu/(4890:4933): pid:[1] execute :: WRITE(528, 25)
+[INFO] 02:29:38:381 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:39:382 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:40:382 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:41:384 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:42:385 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:43:386 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:44:387 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:45:388 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:46:389 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:47:391 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:47:392 cpu/(4890:4933): pid:[1] execute :: I_O(5000)
+[INFO] 02:29:53:395 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:54:397 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:55:397 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:56:398 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:57:399 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:58:401 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:29:59:402 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:00:402 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:01:403 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:02:404 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:02:405 cpu/(4890:4933): pid:[1] execute :: READ(0) = 1
+[INFO] 02:30:03:405 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:04:406 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:04:407 cpu/(4890:4933): pid:[1] execute :: READ(4) = 2
+[INFO] 02:30:05:407 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:06:407 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:06:408 cpu/(4890:4933): pid:[1] execute :: READ(8) = 3
+[INFO] 02:30:07:408 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:08:409 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:08:409 cpu/(4890:4933): pid:[1] execute :: READ(12) = 4
+[INFO] 02:30:09:410 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:10:412 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:10:413 cpu/(4890:4933): pid:[1] execute :: READ(16) = 5
+[INFO] 02:30:11:413 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:12:414 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:12:415 cpu/(4890:4933): pid:[1] execute :: READ(256) = 11
+[INFO] 02:30:13:415 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:14:416 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:14:417 cpu/(4890:4933): pid:[1] execute :: READ(260) = 12
+[INFO] 02:30:15:417 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:16:418 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:16:419 cpu/(4890:4933): pid:[1] execute :: READ(264) = 13
+[INFO] 02:30:17:421 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:18:422 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:18:422 cpu/(4890:4933): pid:[1] execute :: READ(268) = 14
+[INFO] 02:30:19:424 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:20:424 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:20:425 cpu/(4890:4933): pid:[1] execute :: READ(272) = 15
+[INFO] 02:30:21:425 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:22:426 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:22:427 cpu/(4890:4933): pid:[1] execute :: READ(512) = 21
+[INFO] 02:30:23:428 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:24:429 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:24:429 cpu/(4890:4933): pid:[1] execute :: READ(516) = 22
+[INFO] 02:30:25:430 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:26:431 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:26:431 cpu/(4890:4933): pid:[1] execute :: READ(520) = 23
+[INFO] 02:30:27:432 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:28:433 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:28:433 cpu/(4890:4933): pid:[1] execute :: READ(524) = 24
+[INFO] 02:30:29:434 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:30:435 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:30:435 cpu/(4890:4933): pid:[1] execute :: READ(528) = 25
+[INFO] 02:30:31:436 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:32:436 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:33:437 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:34:438 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:35:438 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:36:440 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:37:441 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:38:442 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:39:443 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:40:443 cpu/(4890:4933): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:30:40:443 cpu/(4890:4933): pid:[1] execute :: EXIT
+[INFO] 02:33:52:229 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:53:230 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:54:231 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:55:232 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:56:233 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:57:234 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:58:235 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:33:59:235 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:00:236 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:01:238 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:01:238 cpu/(4890:4933): pid:[2] execute :: WRITE(0, 1)
+[INFO] 02:34:03:240 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:04:241 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:04:242 cpu/(4890:4933): pid:[2] execute :: WRITE(4, 2)
+[INFO] 02:34:05:242 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:06:243 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:06:244 cpu/(4890:4933): pid:[2] execute :: WRITE(8, 3)
+[INFO] 02:34:07:244 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:08:246 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:08:246 cpu/(4890:4933): pid:[2] execute :: WRITE(12, 4)
+[INFO] 02:34:09:247 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:10:248 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:10:248 cpu/(4890:4933): pid:[2] execute :: WRITE(16, 5)
+[INFO] 02:34:11:248 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:12:249 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:12:250 cpu/(4890:4933): pid:[2] execute :: WRITE(256, 11)
+[INFO] 02:34:14:251 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:15:252 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:15:253 cpu/(4890:4933): pid:[2] execute :: WRITE(260, 12)
+[INFO] 02:34:16:254 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:17:254 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:17:254 cpu/(4890:4933): pid:[2] execute :: WRITE(264, 13)
+[INFO] 02:34:19:246 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:20:247 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:20:247 cpu/(4890:4933): pid:[2] execute :: WRITE(268, 14)
+[INFO] 02:34:21:248 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:22:248 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:22:248 cpu/(4890:4933): pid:[2] execute :: WRITE(272, 15)
+[INFO] 02:34:23:249 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:24:251 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:24:251 cpu/(4890:4933): pid:[2] execute :: WRITE(512, 21)
+[INFO] 02:34:26:254 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:27:254 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:27:254 cpu/(4890:4933): pid:[2] execute :: WRITE(516, 22)
+[INFO] 02:34:28:255 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:29:256 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:29:256 cpu/(4890:4933): pid:[2] execute :: WRITE(520, 23)
+[INFO] 02:34:30:257 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:31:258 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:31:258 cpu/(4890:4933): pid:[2] execute :: WRITE(524, 24)
+[INFO] 02:34:32:259 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:33:260 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:33:260 cpu/(4890:4933): pid:[2] execute :: WRITE(528, 25)
+[INFO] 02:34:34:261 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:35:262 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:36:263 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:37:264 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:38:265 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:39:265 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:40:266 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:41:270 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:42:273 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:43:274 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:43:274 cpu/(4890:4933): pid:[2] execute :: I_O(5000)
+[INFO] 02:34:43:276 cpu/(4890:4933): pid:[3] execute :: WRITE(0, 1)
+[INFO] 02:34:45:277 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:46:278 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:47:278 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:48:279 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:49:279 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:50:280 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:51:281 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:52:282 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:53:283 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:54:283 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:34:54:283 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:34:55:285 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:56:285 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:57:285 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:58:287 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:34:59:288 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:00:289 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:01:289 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:02:290 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:03:290 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:04:291 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:04:291 cpu/(4890:4933): pid:[2] execute :: READ(0) = 1
+[INFO] 02:35:05:291 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:06:292 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:06:292 cpu/(4890:4933): pid:[2] execute :: READ(4) = 2
+[INFO] 02:35:07:292 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:08:293 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:08:294 cpu/(4890:4933): pid:[2] execute :: READ(8) = 3
+[INFO] 02:35:09:294 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:10:294 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:10:294 cpu/(4890:4933): pid:[2] execute :: READ(12) = 4
+[INFO] 02:35:11:295 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:12:296 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:12:296 cpu/(4890:4933): pid:[2] execute :: READ(16) = 5
+[INFO] 02:35:13:296 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:14:296 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:14:297 cpu/(4890:4933): pid:[2] execute :: READ(256) = 11
+[INFO] 02:35:15:298 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:16:298 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:16:299 cpu/(4890:4933): pid:[2] execute :: READ(260) = 12
+[INFO] 02:35:17:300 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:18:300 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:18:301 cpu/(4890:4933): pid:[2] execute :: READ(264) = 13
+[INFO] 02:35:19:301 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:20:302 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:20:302 cpu/(4890:4933): pid:[2] execute :: READ(268) = 14
+[INFO] 02:35:21:303 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:22:304 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:22:304 cpu/(4890:4933): pid:[2] execute :: READ(272) = 15
+[INFO] 02:35:23:306 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:24:307 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:24:307 cpu/(4890:4933): pid:[2] execute :: READ(512) = 21
+[INFO] 02:35:25:308 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:26:308 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:26:309 cpu/(4890:4933): pid:[2] execute :: READ(516) = 22
+[INFO] 02:35:27:309 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:28:309 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:28:310 cpu/(4890:4933): pid:[2] execute :: READ(520) = 23
+[INFO] 02:35:29:311 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:30:311 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:30:312 cpu/(4890:4933): pid:[2] execute :: READ(524) = 24
+[INFO] 02:35:31:313 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:32:313 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:32:313 cpu/(4890:4933): pid:[2] execute :: READ(528) = 25
+[INFO] 02:35:33:313 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:34:315 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:35:315 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:36:316 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:37:317 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:38:318 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:39:319 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:40:320 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:41:320 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:42:321 cpu/(4890:4933): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:35:42:322 cpu/(4890:4933): pid:[2] execute :: EXIT
+[INFO] 02:35:42:323 cpu/(4890:4933): pid:[3] execute :: WRITE(4, 2)
+[INFO] 02:35:46:326 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:47:326 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:48:327 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:49:327 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:50:328 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:51:329 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:52:330 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:53:331 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:54:332 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:55:333 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:55:333 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:35:55:437 cpu/(4890:4933): pid:[3] execute :: WRITE(256, 11)
+[INFO] 02:35:57:439 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:58:440 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:35:59:440 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:00:442 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:01:443 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:02:443 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:03:443 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:04:444 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:05:445 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:06:445 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:06:445 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:06:548 cpu/(4890:4933): pid:[3] execute :: WRITE(260, 12)
+[INFO] 02:36:07:549 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:08:549 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:09:551 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:10:551 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:11:552 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:12:552 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:13:553 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:14:554 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:15:555 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:16:555 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:16:555 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:16:658 cpu/(4890:4933): pid:[3] execute :: READ(0) = 1
+[INFO] 02:36:17:659 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:18:659 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:19:660 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:20:661 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:21:662 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:22:662 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:23:662 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:24:663 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:25:664 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:26:665 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:26:665 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:26:767 cpu/(4890:4933): pid:[3] execute :: READ(256) = 11
+[INFO] 02:36:27:767 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:28:768 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:29:768 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:30:769 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:31:769 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:32:769 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:33:770 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:34:771 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:35:771 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:36:772 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:36:772 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:36:874 cpu/(4890:4933): pid:[3] execute :: READ(4) = 2
+[INFO] 02:36:37:875 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:38:876 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:39:877 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:40:877 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:41:878 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:42:879 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:43:879 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:44:880 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:45:880 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:46:881 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:46:881 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:46:983 cpu/(4890:4933): pid:[3] execute :: READ(260) = 12
+[INFO] 02:36:47:984 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:48:985 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:49:985 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:50:987 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:51:988 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:52:988 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:53:989 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:54:989 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:55:990 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:56:991 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:36:56:992 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:36:57:095 cpu/(4890:4933): pid:[3] execute :: WRITE(512, 21)
+[INFO] 02:36:59:097 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:00:097 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:01:098 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:02:098 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:03:099 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:04:101 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:05:101 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:06:102 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:07:103 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:08:103 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:08:104 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:37:08:207 cpu/(4890:4933): pid:[3] execute :: WRITE(516, 22)
+[INFO] 02:37:09:207 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:10:207 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:11:208 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:12:208 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:13:209 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:14:210 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:15:211 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:16:213 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:17:214 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:18:214 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:18:215 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:37:18:320 cpu/(4890:4933): pid:[3] execute :: WRITE(768, 31)
+[INFO] 02:37:21:322 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:22:324 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:23:324 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:24:326 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:25:327 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:26:328 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:27:328 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:28:329 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:29:330 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:30:330 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:30:331 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:37:30:433 cpu/(4890:4933): pid:[3] execute :: WRITE(772, 32)
+[INFO] 02:37:31:434 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:32:435 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:33:436 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:34:436 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:35:437 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:36:438 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:37:439 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:38:440 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:39:440 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:40:440 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:40:441 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:37:40:545 cpu/(4890:4933): pid:[3] execute :: READ(512) = 21
+[INFO] 02:37:41:545 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:42:546 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:43:547 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:44:548 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:45:549 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:46:549 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:47:551 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:48:551 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:49:552 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:50:553 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:50:553 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:37:50:657 cpu/(4890:4933): pid:[3] execute :: READ(516) = 22
+[INFO] 02:37:51:658 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:52:660 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:53:660 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:54:660 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:55:661 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:56:662 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:57:663 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:58:664 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:37:59:664 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:00:665 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:00:665 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:38:00:771 cpu/(4890:4933): pid:[3] execute :: READ(768) = 31
+[INFO] 02:38:01:771 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:02:772 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:03:773 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:04:773 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:05:774 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:06:775 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:07:775 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:08:776 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:09:776 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:10:777 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:10:777 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:38:10:884 cpu/(4890:4933): pid:[3] execute :: READ(772) = 32
+[INFO] 02:38:11:884 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:12:886 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:13:886 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:14:887 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:15:889 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:16:889 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:17:889 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:18:890 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:19:890 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:20:891 cpu/(4890:4933): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:38:20:891 cpu/(4890:4933): pid:[3] execute :: I_O(100)
+[INFO] 02:38:20:995 cpu/(4890:4933): pid:[3] execute :: EXIT
+[INFO] 02:43:10:790 cpu/(6423:6423): conexion con memoria establecida
+[INFO] 02:43:10:794 cpu/(6423:6423): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 02:43:10:795 cpu/(6423:6423): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 02:43:10:796 cpu/(6423:6427): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 02:43:10:796 cpu/(6423:6426): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 02:43:19:510 cpu/(6423:6458): Conexion aceptada con kernel en socket:[7]
+[INFO] 02:43:19:511 cpu/(6423:6427): El servidor 'interrupt' desconectado
+[INFO] 02:43:19:512 cpu/(6423:6459): Conexion aceptada con kernel en socket:[8]
+[INFO] 02:43:19:513 cpu/(6423:6426): El servidor 'dispatch' desconectado
+[INFO] 02:48:08:333 cpu/(3245:3245): conexion con memoria establecida
+[INFO] 02:48:08:336 cpu/(3245:3245): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 02:48:08:336 cpu/(3245:3245): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 02:48:08:336 cpu/(3245:3249): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 02:48:08:336 cpu/(3245:3248): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 02:48:22:548 cpu/(3245:3300): Conexion aceptada con kernel en socket:[7]
+[INFO] 02:48:22:548 cpu/(3245:3249): El servidor 'interrupt' desconectado
+[INFO] 02:48:22:548 cpu/(3245:3301): Conexion aceptada con kernel en socket:[8]
+[INFO] 02:48:22:548 cpu/(3245:3248): El servidor 'dispatch' desconectado
+[INFO] 02:48:33:325 cpu/(3245:3301): pid:[1] execute :: WRITE(0, 1)
+[INFO] 02:48:35:326 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:36:326 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:37:327 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:38:327 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:39:327 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:40:329 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:41:329 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:42:330 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:43:330 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:43:556 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:48:44:331 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:48:45:333 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:46:333 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:47:333 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:48:333 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:49:334 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:50:335 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:51:336 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:52:336 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:53:336 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:54:004 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:48:54:337 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:48:54:338 cpu/(3245:3301): pid:[3] execute :: WRITE(0, 1)
+[INFO] 02:48:56:339 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:48:57:339 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:48:58:340 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:48:59:341 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:00:342 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:01:342 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:02:343 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:03:344 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:04:344 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:05:346 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:05:346 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:49:05:347 cpu/(3245:3301): pid:[2] execute :: WRITE(0, 1)
+[INFO] 02:49:05:449 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:49:07:349 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:08:351 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:08:351 cpu/(3245:3301): pid:[2] execute :: WRITE(4, 2)
+[INFO] 02:49:09:351 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:10:352 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:10:353 cpu/(3245:3301): pid:[2] execute :: WRITE(8, 3)
+[INFO] 02:49:11:354 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:12:354 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:12:354 cpu/(3245:3301): pid:[2] execute :: WRITE(12, 4)
+[INFO] 02:49:13:355 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:14:356 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:14:356 cpu/(3245:3301): pid:[2] execute :: WRITE(16, 5)
+[INFO] 02:49:15:356 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:16:358 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:16:358 cpu/(3245:3301): pid:[2] execute :: WRITE(256, 11)
+[INFO] 02:49:18:359 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:19:360 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:19:360 cpu/(3245:3301): pid:[2] execute :: WRITE(260, 12)
+[INFO] 02:49:20:361 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:21:362 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:21:362 cpu/(3245:3301): pid:[2] execute :: WRITE(264, 13)
+[INFO] 02:49:22:363 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:23:363 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:23:363 cpu/(3245:3301): pid:[2] execute :: WRITE(268, 14)
+[INFO] 02:49:24:364 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:25:364 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:25:364 cpu/(3245:3301): pid:[2] execute :: WRITE(272, 15)
+[INFO] 02:49:26:364 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:27:366 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:27:366 cpu/(3245:3301): pid:[2] execute :: WRITE(512, 21)
+[INFO] 02:49:29:368 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:30:368 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:30:368 cpu/(3245:3301): pid:[2] execute :: WRITE(516, 22)
+[INFO] 02:49:31:369 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:32:369 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:32:369 cpu/(3245:3301): pid:[2] execute :: WRITE(520, 23)
+[INFO] 02:49:33:370 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:34:371 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:34:371 cpu/(3245:3301): pid:[2] execute :: WRITE(524, 24)
+[INFO] 02:49:35:372 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:36:373 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:36:373 cpu/(3245:3301): pid:[2] execute :: WRITE(528, 25)
+[INFO] 02:49:37:374 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:38:374 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:39:375 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:40:376 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:41:376 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:42:377 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:43:378 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:44:378 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:45:379 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:46:379 cpu/(3245:3301): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:49:46:379 cpu/(3245:3301): pid:[2] execute :: I_O(5000)
+[INFO] 02:49:46:380 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:49:46:381 cpu/(3245:3301): pid:[3] execute :: WRITE(4, 2)
+[INFO] 02:49:47:382 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:48:382 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:49:382 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:50:383 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:51:381 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:49:51:384 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:51:483 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:49:52:386 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:53:388 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:54:389 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:55:390 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:56:390 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:49:56:390 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:49:56:391 cpu/(3245:3301): pid:[1] execute :: WRITE(4, 2)
+[INFO] 02:49:56:493 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:49:57:392 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:49:58:393 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:49:59:394 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:00:395 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:01:395 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:02:396 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:03:397 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:04:397 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:05:397 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:06:397 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:06:398 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:50:06:398 cpu/(3245:3301): pid:[3] execute :: WRITE(256, 11)
+[INFO] 02:50:06:499 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:08:400 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:09:400 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:10:401 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:11:401 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:12:402 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:13:402 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:14:403 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:15:403 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:16:404 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:17:404 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:17:404 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:50:17:405 cpu/(3245:3301): pid:[1] execute :: WRITE(256, 11)
+[INFO] 02:50:17:507 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:19:407 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:20:408 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:21:409 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:22:409 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:23:410 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:24:410 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:25:410 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:26:411 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:27:411 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:28:412 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:28:412 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:50:28:413 cpu/(3245:3301): pid:[3] execute :: WRITE(260, 12)
+[INFO] 02:50:28:514 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:29:414 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:30:415 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:31:416 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:32:417 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:33:418 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:34:419 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:35:419 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:36:420 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:37:421 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:38:421 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:38:421 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:50:38:422 cpu/(3245:3301): pid:[1] execute :: WRITE(260, 12)
+[INFO] 02:50:38:524 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:39:423 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:40:425 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:41:426 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:42:427 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:43:427 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:44:428 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:45:429 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:46:429 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:47:430 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:48:431 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:50:48:431 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:50:48:432 cpu/(3245:3301): pid:[3] execute :: READ(0) = 1
+[INFO] 02:50:48:532 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:49:433 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:50:436 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:51:437 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:52:437 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:53:437 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:54:438 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:55:439 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:56:440 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:57:440 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:58:441 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:50:58:441 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:50:58:442 cpu/(3245:3301): pid:[1] execute :: READ(0) = 1
+[INFO] 02:50:58:543 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:50:59:443 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:00:445 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:01:445 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:02:446 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:03:447 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:04:447 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:05:447 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:06:449 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:07:450 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:08:450 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:08:451 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:51:08:452 cpu/(3245:3301): pid:[3] execute :: READ(256) = 11
+[INFO] 02:51:08:552 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:09:453 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:10:456 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:11:456 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:12:457 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:13:458 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:14:460 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:15:461 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:16:461 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:17:462 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:18:462 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:18:462 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:51:18:464 cpu/(3245:3301): pid:[1] execute :: READ(256) = 11
+[INFO] 02:51:18:565 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:19:464 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:20:466 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:21:467 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:22:469 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:23:469 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:24:470 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:25:471 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:26:472 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:27:472 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:28:473 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:28:473 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:51:28:474 cpu/(3245:3301): pid:[3] execute :: READ(4) = 2
+[INFO] 02:51:28:575 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:29:475 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:30:477 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:31:478 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:32:479 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:33:480 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:34:481 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:35:481 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:36:481 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:37:482 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:38:483 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:38:483 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:51:38:484 cpu/(3245:3301): pid:[1] execute :: READ(4) = 2
+[INFO] 02:51:38:584 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:39:485 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:40:488 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:41:489 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:42:490 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:43:491 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:44:492 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:45:493 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:46:494 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:47:494 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:48:495 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:51:48:495 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:51:48:496 cpu/(3245:3301): pid:[3] execute :: READ(260) = 12
+[INFO] 02:51:48:597 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:49:497 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:50:499 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:51:500 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:52:500 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:53:500 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:54:501 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:55:502 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:56:503 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:57:503 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:58:504 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:51:58:504 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:51:58:505 cpu/(3245:3301): pid:[1] execute :: READ(260) = 12
+[INFO] 02:51:58:607 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[INFO] 02:51:59:506 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:00:507 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:01:508 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:02:509 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:03:510 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:04:510 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:05:511 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:06:511 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:07:512 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:08:513 cpu/(3245:3301): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:52:08:513 cpu/(3245:3301): pid:[1] execute :: I_O(100)
+[INFO] 02:52:08:514 cpu/(3245:3301): pid:[3] execute :: WRITE(512, 21)
+[INFO] 02:52:08:615 cpu/(3245:3300): interrupt :: interrupcion de cpu
+[ERROR] 02:52:08:669 cpu/(3245:3301): error al recibir la entrada de pagina de segundo nivel de memoria. error:[10200] msg:[Conexion perdida]
+[ERROR] 02:52:08:670 cpu/(3245:3301): error al recibir el valor del marco:[-1] solicitado. error:[10200] msg:[Conexion perdida]
+[INFO] 02:52:09:672 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:10:672 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:11:673 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:12:674 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:13:675 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:14:676 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:15:677 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:16:677 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:17:678 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:18:679 cpu/(3245:3301): pid:[3] execute :: NO_OP(1000)
+[INFO] 02:52:18:679 cpu/(3245:3301): pid:[3] execute :: I_O(100)
+[INFO] 02:52:18:680 cpu/(3245:3301): pid:[1] execute :: WRITE(512, 21)
+[INFO] 02:53:48:248 cpu/(3824:3824): conexion con memoria establecida
+[INFO] 02:53:48:249 cpu/(3824:3824): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 02:53:48:249 cpu/(3824:3824): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 02:53:48:251 cpu/(3824:3827): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 02:53:48:251 cpu/(3824:3826): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 02:53:56:485 cpu/(3824:3830): Conexion aceptada con kernel en socket:[7]
+[INFO] 02:53:56:485 cpu/(3824:3827): El servidor 'interrupt' desconectado
+[INFO] 02:53:56:485 cpu/(3824:3831): Conexion aceptada con kernel en socket:[8]
+[INFO] 02:53:56:485 cpu/(3824:3826): El servidor 'dispatch' desconectado
+[INFO] 02:56:16:583 cpu/(3334:3334): conexion con memoria establecida
+[INFO] 02:56:16:583 cpu/(3334:3334): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 02:56:16:583 cpu/(3334:3334): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 02:56:16:590 cpu/(3334:3338): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 02:56:16:590 cpu/(3334:3336): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 02:56:26:372 cpu/(3334:3389): Conexion aceptada con kernel en socket:[7]
+[INFO] 02:56:26:373 cpu/(3334:3338): El servidor 'interrupt' desconectado
+[INFO] 02:56:26:373 cpu/(3334:3390): Conexion aceptada con kernel en socket:[8]
+[INFO] 02:56:26:373 cpu/(3334:3336): El servidor 'dispatch' desconectado
+[INFO] 02:56:43:798 cpu/(3334:3390): pid:[1] execute :: WRITE(0, 1)
+[INFO] 02:56:45:835 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:46:835 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:47:836 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:48:836 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:49:836 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:50:836 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:51:837 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:52:837 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:53:838 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:54:838 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:54:839 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:56:54:941 cpu/(3334:3390): pid:[1] execute :: WRITE(4, 2)
+[INFO] 02:56:55:942 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:56:943 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:57:944 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:58:945 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:56:59:945 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:00:946 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:01:946 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:02:887 cpu/(3334:3389): interrupt :: interrupcion de cpu
+[INFO] 02:57:02:947 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:03:948 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:04:950 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:04:950 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:57:05:052 cpu/(3334:3389): interrupt :: interrupcion de cpu
+[INFO] 02:57:05:951 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:06:952 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:07:953 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:08:954 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:09:955 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:10:955 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:11:956 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:12:956 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:13:956 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:14:956 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:14:957 cpu/(3334:3390): pid:[2] execute :: WRITE(0, 1)
+[INFO] 02:57:16:960 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:17:960 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:17:960 cpu/(3334:3390): pid:[2] execute :: WRITE(4, 2)
+[INFO] 02:57:18:961 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:19:962 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:19:962 cpu/(3334:3390): pid:[2] execute :: WRITE(8, 3)
+[INFO] 02:57:20:964 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:21:964 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:21:964 cpu/(3334:3390): pid:[2] execute :: WRITE(12, 4)
+[INFO] 02:57:22:965 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:23:965 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:23:965 cpu/(3334:3390): pid:[2] execute :: WRITE(16, 5)
+[INFO] 02:57:24:966 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:25:967 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:25:967 cpu/(3334:3390): pid:[2] execute :: WRITE(256, 11)
+[INFO] 02:57:27:970 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:28:970 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:28:971 cpu/(3334:3390): pid:[2] execute :: WRITE(260, 12)
+[INFO] 02:57:29:971 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:30:972 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:30:972 cpu/(3334:3390): pid:[2] execute :: WRITE(264, 13)
+[INFO] 02:57:31:973 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:32:974 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:32:974 cpu/(3334:3390): pid:[2] execute :: WRITE(268, 14)
+[INFO] 02:57:33:975 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:34:975 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:34:975 cpu/(3334:3390): pid:[2] execute :: WRITE(272, 15)
+[INFO] 02:57:35:976 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:36:977 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:36:977 cpu/(3334:3390): pid:[2] execute :: WRITE(512, 21)
+[INFO] 02:57:38:979 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:39:979 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:39:979 cpu/(3334:3390): pid:[2] execute :: WRITE(516, 22)
+[INFO] 02:57:40:980 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:41:981 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:41:981 cpu/(3334:3390): pid:[2] execute :: WRITE(520, 23)
+[INFO] 02:57:42:982 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:43:982 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:43:983 cpu/(3334:3390): pid:[2] execute :: WRITE(524, 24)
+[INFO] 02:57:44:983 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:45:984 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:45:984 cpu/(3334:3390): pid:[2] execute :: WRITE(528, 25)
+[INFO] 02:57:46:985 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:47:986 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:48:986 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:49:986 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:50:987 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:51:988 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:52:988 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:53:989 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:54:989 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:55:990 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:57:55:991 cpu/(3334:3390): pid:[2] execute :: I_O(5000)
+[INFO] 02:57:55:991 cpu/(3334:3390): pid:[1] execute :: WRITE(256, 11)
+[INFO] 02:57:57:994 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:58:994 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:57:59:995 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:00:992 cpu/(3334:3389): interrupt :: interrupcion de cpu
+[INFO] 02:58:00:996 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:01:998 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:02:999 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:04:000 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:05:001 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:06:002 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:07:002 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:07:002 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:58:07:104 cpu/(3334:3389): interrupt :: interrupcion de cpu
+[INFO] 02:58:08:004 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:08:006 cpu/(3334:3390): pid:[1] execute :: WRITE(260, 12)
+[INFO] 02:58:09:007 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:10:008 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:11:008 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:12:009 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:13:009 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:14:010 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:15:011 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:16:011 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:17:011 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:18:012 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:58:18:012 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:58:18:114 cpu/(3334:3389): interrupt :: interrupcion de cpu
+[INFO] 02:58:19:013 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:20:015 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:21:017 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:22:018 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:23:018 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:24:019 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:25:020 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:26:020 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:27:021 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:27:025 cpu/(3334:3390): pid:[2] execute :: READ(0) = 1
+[INFO] 02:58:28:025 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:29:026 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:29:027 cpu/(3334:3390): pid:[2] execute :: READ(4) = 2
+[INFO] 02:58:30:028 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:31:028 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:31:029 cpu/(3334:3390): pid:[2] execute :: READ(8) = 3
+[INFO] 02:58:32:030 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:33:030 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:33:031 cpu/(3334:3390): pid:[2] execute :: READ(12) = 4
+[INFO] 02:58:34:032 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:35:032 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:35:033 cpu/(3334:3390): pid:[2] execute :: READ(16) = 5
+[INFO] 02:58:36:033 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:37:034 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:37:034 cpu/(3334:3390): pid:[2] execute :: READ(256) = 11
+[INFO] 02:58:38:034 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:39:035 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:39:036 cpu/(3334:3390): pid:[2] execute :: READ(260) = 12
+[INFO] 02:58:40:037 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:41:038 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:41:038 cpu/(3334:3390): pid:[2] execute :: READ(264) = 13
+[INFO] 02:58:42:038 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:43:039 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:43:039 cpu/(3334:3390): pid:[2] execute :: READ(268) = 14
+[INFO] 02:58:44:040 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:45:040 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:45:040 cpu/(3334:3390): pid:[2] execute :: READ(272) = 15
+[INFO] 02:58:46:041 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:47:041 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:47:042 cpu/(3334:3390): pid:[2] execute :: READ(512) = 21
+[INFO] 02:58:48:042 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:49:043 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:49:043 cpu/(3334:3390): pid:[2] execute :: READ(516) = 22
+[INFO] 02:58:50:044 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:51:045 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:51:046 cpu/(3334:3390): pid:[2] execute :: READ(520) = 23
+[INFO] 02:58:52:046 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:53:046 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:53:047 cpu/(3334:3390): pid:[2] execute :: READ(524) = 24
+[INFO] 02:58:54:047 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:55:047 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:55:047 cpu/(3334:3390): pid:[2] execute :: READ(528) = 25
+[INFO] 02:58:56:048 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:57:049 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:58:050 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:58:59:051 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:00:051 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:01:052 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:02:052 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:03:054 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:04:054 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:05:054 cpu/(3334:3390): pid:[2] execute :: NO_OP(1000)
+[INFO] 02:59:05:054 cpu/(3334:3390): pid:[2] execute :: EXIT
+[INFO] 02:59:08:065 cpu/(3334:3390): pid:[1] execute :: READ(0) = 1
+[INFO] 02:59:09:065 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:10:067 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:11:068 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:12:068 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:13:068 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:14:069 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:15:069 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:16:070 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:17:070 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:18:071 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:18:071 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:59:18:173 cpu/(3334:3390): pid:[1] execute :: READ(256) = 11
+[INFO] 02:59:19:174 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:20:175 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:21:176 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:22:176 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:23:177 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:24:178 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:25:179 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:26:180 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:27:181 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:28:181 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:28:181 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:59:28:284 cpu/(3334:3390): pid:[1] execute :: READ(4) = 2
+[INFO] 02:59:29:285 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:30:286 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:31:287 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:32:288 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:33:289 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:34:290 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:35:291 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:36:291 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:37:292 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:38:293 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:38:294 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:59:38:396 cpu/(3334:3390): pid:[1] execute :: READ(260) = 12
+[INFO] 02:59:39:396 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:40:396 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:41:397 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:42:397 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:43:398 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:44:399 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:45:400 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:46:400 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:47:401 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:48:402 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:48:402 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:59:48:504 cpu/(3334:3390): pid:[1] execute :: WRITE(512, 21)
+[ERROR] 02:59:48:615 cpu/(3334:3390): error al recibir la entrada de pagina de segundo nivel de memoria. error:[10200] msg:[Conexion perdida]
+[ERROR] 02:59:48:616 cpu/(3334:3390): error al recibir el valor del marco:[-1] solicitado. error:[10200] msg:[Conexion perdida]
+[INFO] 02:59:49:616 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:50:616 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:51:617 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:52:617 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:53:618 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:54:619 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:55:620 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:56:621 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:57:621 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:58:621 cpu/(3334:3390): pid:[1] execute :: NO_OP(1000)
+[INFO] 02:59:58:621 cpu/(3334:3390): pid:[1] execute :: I_O(100)
+[INFO] 02:59:58:723 cpu/(3334:3390): pid:[1] execute :: WRITE(516, 22)
+[INFO] 11:01:41:499 cpu/(11184:11184): conexion con memoria establecida
+[INFO] 11:01:41:501 cpu/(11184:11184): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 11:01:41:501 cpu/(11184:11184): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 11:01:41:502 cpu/(11184:11187): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 11:01:41:502 cpu/(11184:11186): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 11:02:55:543 cpu/(11184:11507): Conexion aceptada con kernel en socket:[8]
+[INFO] 11:02:55:543 cpu/(11184:11187): El servidor 'interrupt' desconectado
+[INFO] 11:02:55:544 cpu/(11184:11508): Conexion aceptada con kernel en socket:[9]
+[INFO] 11:02:55:546 cpu/(11184:11186): El servidor 'dispatch' desconectado
+[ERROR] 11:07:17:838 cpu/(11184:11508): dispatch :: desconectado. error:[10200] msg:[Conexion perdida]
+[ERROR] 11:07:17:839 cpu/(11184:11507): interrupt :: desconectado. error:[10200] msg:[Conexion perdida]
+[INFO] 11:12:48:367 cpu/(12252:12252): conexion con memoria establecida
+[INFO] 11:12:48:368 cpu/(12252:12252): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 11:12:48:368 cpu/(12252:12252): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 11:12:48:369 cpu/(12252:12255): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 11:12:48:369 cpu/(12252:12254): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 11:13:25:230 cpu/(12252:12282): Conexion aceptada con kernel en socket:[8]
+[INFO] 11:13:25:231 cpu/(12252:12255): El servidor 'interrupt' desconectado
+[INFO] 11:13:25:231 cpu/(12252:12283): Conexion aceptada con kernel en socket:[9]
+[INFO] 11:13:25:233 cpu/(12252:12254): El servidor 'dispatch' desconectado
+[INFO] 11:14:18:124 cpu/(12252:12283): Se limpio la TLB por nuevo proceso
+[INFO] 11:14:18:225 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:326 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:427 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:527 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:628 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:729 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:829 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:18:930 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:19:031 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:19:132 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:19:132 cpu/(12252:12283): pid:[1] execute :: WRITE(0, 1)
+[INFO] 11:14:19:736 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:19:837 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:19:837 cpu/(12252:12283): pid:[1] execute :: WRITE(4, 2)
+[INFO] 11:14:19:939 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:040 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:040 cpu/(12252:12283): pid:[1] execute :: WRITE(8, 3)
+[INFO] 11:14:20:142 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:242 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:243 cpu/(12252:12283): pid:[1] execute :: WRITE(12, 4)
+[INFO] 11:14:20:344 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:444 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:444 cpu/(12252:12283): pid:[1] execute :: WRITE(16, 5)
+[INFO] 11:14:20:546 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:647 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:20:647 cpu/(12252:12283): pid:[1] execute :: WRITE(256, 11)
+[INFO] 11:14:21:250 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:351 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:351 cpu/(12252:12283): pid:[1] execute :: WRITE(260, 12)
+[INFO] 11:14:21:453 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:554 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:554 cpu/(12252:12283): pid:[1] execute :: WRITE(264, 13)
+[INFO] 11:14:21:655 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:756 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:757 cpu/(12252:12283): pid:[1] execute :: WRITE(268, 14)
+[INFO] 11:14:21:859 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:961 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:21:962 cpu/(12252:12283): pid:[1] execute :: WRITE(272, 15)
+[INFO] 11:14:22:063 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:22:164 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:22:164 cpu/(12252:12283): pid:[1] execute :: WRITE(512, 21)
+[INFO] 11:14:22:666 cpu/(12252:12283): Remplazando marco [0] y pagina [0], por marco [2] y pagina [2]
+[INFO] 11:14:22:768 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:22:869 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:22:870 cpu/(12252:12283): pid:[1] execute :: WRITE(516, 22)
+[INFO] 11:14:22:971 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:073 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:073 cpu/(12252:12283): pid:[1] execute :: WRITE(520, 23)
+[INFO] 11:14:23:175 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:275 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:276 cpu/(12252:12283): pid:[1] execute :: WRITE(524, 24)
+[INFO] 11:14:23:377 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:478 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:478 cpu/(12252:12283): pid:[1] execute :: WRITE(528, 25)
+[INFO] 11:14:23:580 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:680 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:781 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:882 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:23:984 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:085 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:185 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:286 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:387 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:487 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:24:488 cpu/(12252:12283): pid:[1] execute :: I_O(5000)
+[INFO] 11:14:29:495 cpu/(12252:12283): Se limpio la TLB por nuevo proceso
+[INFO] 11:14:29:596 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:29:697 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:29:797 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:29:898 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:29:999 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:30:100 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:30:201 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:30:302 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:30:403 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:30:504 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:008 cpu/(12252:12283): pid:[1] execute :: READ(0) = 1
+[INFO] 11:14:31:109 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:210 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:211 cpu/(12252:12283): pid:[1] execute :: READ(4) = 2
+[INFO] 11:14:31:311 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:413 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:414 cpu/(12252:12283): pid:[1] execute :: READ(8) = 3
+[INFO] 11:14:31:516 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:616 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:618 cpu/(12252:12283): pid:[1] execute :: READ(12) = 4
+[INFO] 11:14:31:718 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:820 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:31:821 cpu/(12252:12283): pid:[1] execute :: READ(16) = 5
+[INFO] 11:14:31:921 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:023 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:526 cpu/(12252:12283): pid:[1] execute :: READ(256) = 11
+[INFO] 11:14:32:627 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:728 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:729 cpu/(12252:12283): pid:[1] execute :: READ(260) = 12
+[INFO] 11:14:32:829 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:930 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:32:932 cpu/(12252:12283): pid:[1] execute :: READ(264) = 13
+[INFO] 11:14:33:032 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:33:133 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:33:133 cpu/(12252:12283): pid:[1] execute :: READ(268) = 14
+[INFO] 11:14:33:234 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:33:334 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:33:336 cpu/(12252:12283): pid:[1] execute :: READ(272) = 15
+[INFO] 11:14:33:436 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:33:537 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:039 cpu/(12252:12283): Remplazando marco [0] y pagina [0], por marco [2] y pagina [2]
+[INFO] 11:14:34:040 cpu/(12252:12283): pid:[1] execute :: READ(512) = 21
+[INFO] 11:14:34:142 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:242 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:244 cpu/(12252:12283): pid:[1] execute :: READ(516) = 22
+[INFO] 11:14:34:345 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:446 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:448 cpu/(12252:12283): pid:[1] execute :: READ(520) = 23
+[INFO] 11:14:34:548 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:649 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:650 cpu/(12252:12283): pid:[1] execute :: READ(524) = 24
+[INFO] 11:14:34:751 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:852 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:34:854 cpu/(12252:12283): pid:[1] execute :: READ(528) = 25
+[INFO] 11:14:34:955 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:055 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:156 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:257 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:357 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:457 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:558 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:659 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:759 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:859 cpu/(12252:12283): pid:[1] execute :: NO_OP(100)
+[INFO] 11:14:35:860 cpu/(12252:12283): pid:[1] execute :: EXIT
+[INFO] 11:38:44:330 cpu/(3105:3105): conexion con memoria establecida
+[INFO] 11:38:44:332 cpu/(3105:3105): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 11:38:44:332 cpu/(3105:3105): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 11:38:44:334 cpu/(3105:3108): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 11:38:44:334 cpu/(3105:3107): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 11:39:12:393 cpu/(3105:3280): Conexion aceptada con kernel en socket:[8]
+[INFO] 11:39:12:394 cpu/(3105:3108): El servidor 'interrupt' desconectado
+[INFO] 11:39:12:394 cpu/(3105:3281): Conexion aceptada con kernel en socket:[9]
+[INFO] 11:39:12:396 cpu/(3105:3107): El servidor 'dispatch' desconectado
+[INFO] 11:41:47:518 cpu/(3105:3281): Se limpio la TLB por nuevo proceso
+[INFO] 11:41:48:520 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:49:520 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:50:521 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:51:522 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:52:524 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:52:524 cpu/(3105:3281): pid:[1] execute :: I_O(3000)
+[INFO] 11:41:52:526 cpu/(3105:3281): Se limpio la TLB por nuevo proceso
+[INFO] 11:41:53:527 cpu/(3105:3281): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:41:54:528 cpu/(3105:3281): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:41:55:530 cpu/(3105:3281): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:41:56:531 cpu/(3105:3281): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:41:57:532 cpu/(3105:3281): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:41:57:533 cpu/(3105:3281): pid:[2] execute :: EXIT
+[INFO] 11:41:57:535 cpu/(3105:3281): Se limpio la TLB por nuevo proceso
+[INFO] 11:41:58:536 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:41:59:537 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:42:00:537 cpu/(3105:3281): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:42:00:538 cpu/(3105:3281): pid:[1] execute :: EXIT
+[ERROR] 11:45:35:429 cpu/(3105:3281): dispatch :: desconectado. error:[10200] msg:[Conexion perdida]
+[ERROR] 11:45:35:429 cpu/(3105:3280): interrupt :: desconectado. error:[10200] msg:[Conexion perdida]
+[INFO] 11:51:28:161 cpu/(3396:3396): conexion con memoria establecida
+[INFO] 11:51:28:162 cpu/(3396:3396): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 11:51:28:163 cpu/(3396:3396): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 11:51:28:163 cpu/(3396:3399): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 11:51:28:164 cpu/(3396:3398): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 11:54:22:505 cpu/(3396:3889): Conexion aceptada con kernel en socket:[8]
+[INFO] 11:54:22:506 cpu/(3396:3399): El servidor 'interrupt' desconectado
+[INFO] 11:54:22:506 cpu/(3396:3890): Conexion aceptada con kernel en socket:[9]
+[INFO] 11:54:22:508 cpu/(3396:3398): El servidor 'dispatch' desconectado
+[INFO] 11:55:58:031 cpu/(3396:3890): Se limpio la TLB por nuevo proceso
+[INFO] 11:55:59:032 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:00:032 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:01:033 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:01:034 cpu/(3396:3890): pid:[1] execute :: I_O(5000)
+[INFO] 11:56:01:035 cpu/(3396:3890): Se limpio la TLB por nuevo proceso
+[INFO] 11:56:02:036 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:03:038 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:04:039 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:04:039 cpu/(3396:3890): pid:[2] execute :: I_O(5000)
+[INFO] 11:56:04:039 cpu/(3396:3890): Se limpio la TLB por nuevo proceso
+[INFO] 11:56:05:040 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:06:040 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:07:041 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:08:042 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:09:043 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:10:044 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:11:045 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:12:046 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:13:047 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:14:048 cpu/(3396:3890): pid:[3] execute :: NO_OP(1000)
+[INFO] 11:56:14:048 cpu/(3396:3890): pid:[3] execute :: EXIT
+[INFO] 11:56:14:054 cpu/(3396:3890): Se limpio la TLB por nuevo proceso
+[INFO] 11:56:15:054 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:16:055 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:17:055 cpu/(3396:3890): pid:[1] execute :: NO_OP(1000)
+[INFO] 11:56:17:056 cpu/(3396:3890): pid:[1] execute :: EXIT
+[INFO] 11:56:17:057 cpu/(3396:3890): Se limpio la TLB por nuevo proceso
+[INFO] 11:56:18:058 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:19:058 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:20:059 cpu/(3396:3890): pid:[2] execute :: NO_OP(1000)
+[INFO] 11:56:20:059 cpu/(3396:3890): pid:[2] execute :: EXIT
+[INFO] 12:07:43:116 cpu/(4334:4334): conexion con memoria establecida
+[INFO] 12:07:43:116 cpu/(4334:4334): iniciando servidor dispatch en ip:[127.0.0.1] port:[8001]
+[INFO] 12:07:43:116 cpu/(4334:4334): iniciando servidor interrupt en ip:[127.0.0.1] port:[8005]
+[INFO] 12:07:43:117 cpu/(4334:4337): Servidor 'interrupt' preparado y escuchando ...
+[INFO] 12:07:43:117 cpu/(4334:4336): Servidor 'dispatch' preparado y escuchando ...
+[INFO] 12:08:34:823 cpu/(4334:4551): Conexion aceptada con kernel en socket:[8]
+[INFO] 12:08:34:823 cpu/(4334:4337): El servidor 'interrupt' desconectado
+[INFO] 12:08:34:823 cpu/(4334:4552): Conexion aceptada con kernel en socket:[9]
+[INFO] 12:08:34:825 cpu/(4334:4336): El servidor 'dispatch' desconectado
+[INFO] 12:10:06:653 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:07:481 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:10:07:654 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:07:656 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:08:625 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:10:08:658 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:08:659 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:09:659 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:10:660 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:11:660 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:11:799 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:10:12:661 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:12:666 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:13:302 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:10:13:668 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:13:671 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:14:673 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:15:674 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:16:675 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:16:675 cpu/(4334:4552): pid:[1] execute :: WRITE(0, 1)
+[INFO] 12:10:18:177 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:19:177 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:19:178 cpu/(4334:4552): pid:[1] execute :: WRITE(4, 2)
+[INFO] 12:10:20:179 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:21:180 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:21:180 cpu/(4334:4552): pid:[1] execute :: WRITE(8, 3)
+[INFO] 12:10:22:180 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:23:181 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:23:181 cpu/(4334:4552): pid:[1] execute :: WRITE(12, 4)
+[INFO] 12:10:24:182 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:25:183 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:25:183 cpu/(4334:4552): pid:[1] execute :: WRITE(16, 5)
+[INFO] 12:10:26:185 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:27:185 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:27:186 cpu/(4334:4552): pid:[1] execute :: WRITE(256, 11)
+[INFO] 12:10:28:688 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:29:689 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:29:689 cpu/(4334:4552): pid:[1] execute :: WRITE(260, 12)
+[INFO] 12:10:30:693 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:31:695 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:31:695 cpu/(4334:4552): pid:[1] execute :: WRITE(264, 13)
+[INFO] 12:10:32:696 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:33:697 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:33:697 cpu/(4334:4552): pid:[1] execute :: WRITE(268, 14)
+[INFO] 12:10:34:699 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:35:699 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:35:699 cpu/(4334:4552): pid:[1] execute :: WRITE(272, 15)
+[INFO] 12:10:36:700 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:37:700 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:37:701 cpu/(4334:4552): pid:[1] execute :: WRITE(512, 21)
+[INFO] 12:10:39:203 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:40:204 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:40:204 cpu/(4334:4552): pid:[1] execute :: WRITE(516, 22)
+[INFO] 12:10:41:206 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:42:206 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:42:206 cpu/(4334:4552): pid:[1] execute :: WRITE(520, 23)
+[INFO] 12:10:43:208 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:44:208 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:44:209 cpu/(4334:4552): pid:[1] execute :: WRITE(524, 24)
+[INFO] 12:10:45:210 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:46:211 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:46:211 cpu/(4334:4552): pid:[1] execute :: WRITE(528, 25)
+[INFO] 12:10:47:213 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:48:214 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:49:214 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:50:216 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:51:217 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:52:218 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:53:218 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:54:219 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:55:220 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:56:221 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:10:56:221 cpu/(4334:4552): pid:[1] execute :: I_O(5000)
+[INFO] 12:10:56:226 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:10:57:228 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:10:58:228 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:10:59:228 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:00:229 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:01:229 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:11:01:229 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:01:234 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:11:02:235 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:03:236 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:04:237 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:05:238 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:06:239 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:06:239 cpu/(4334:4552): pid:[2] execute :: WRITE(0, 1)
+[INFO] 12:11:07:742 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:08:743 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:09:743 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:10:744 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:11:745 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:11:745 cpu/(4334:4552): pid:[2] execute :: WRITE(256, 11)
+[INFO] 12:11:13:247 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:14:248 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:15:249 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:16:250 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:17:251 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:17:251 cpu/(4334:4552): pid:[2] execute :: WRITE(512, 21)
+[INFO] 12:11:18:752 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:19:753 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:20:753 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:21:754 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:22:755 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:22:756 cpu/(4334:4552): pid:[2] execute :: WRITE(768, 31)
+[INFO] 12:11:24:257 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:25:259 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:26:259 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:27:260 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:28:261 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:28:261 cpu/(4334:4552): pid:[2] execute :: WRITE(1024, 41)
+[INFO] 12:11:29:263 cpu/(4334:4552): Remplazando marco [0] y pagina [0], por marco [0] y pagina [4]
+[INFO] 12:11:30:264 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:31:266 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:32:267 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:33:267 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:34:268 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:35:269 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:36:271 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:37:272 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:38:272 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:39:273 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:11:39:273 cpu/(4334:4552): pid:[2] execute :: I_O(5000)
+[INFO] 12:11:39:274 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:11:40:274 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:41:275 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:42:275 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:43:276 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:44:275 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:11:44:277 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:44:280 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:11:45:281 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:46:282 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:47:282 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:48:283 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:49:284 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:49:787 cpu/(4334:4552): pid:[1] execute :: READ(0) = 1
+[INFO] 12:11:50:788 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:51:789 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:51:789 cpu/(4334:4552): pid:[1] execute :: READ(4) = 2
+[INFO] 12:11:52:789 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:53:790 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:53:791 cpu/(4334:4552): pid:[1] execute :: READ(8) = 3
+[INFO] 12:11:54:792 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:55:793 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:55:794 cpu/(4334:4552): pid:[1] execute :: READ(12) = 4
+[INFO] 12:11:56:796 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:57:796 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:57:796 cpu/(4334:4552): pid:[1] execute :: READ(16) = 5
+[INFO] 12:11:58:797 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:11:59:799 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:00:302 cpu/(4334:4552): pid:[1] execute :: READ(256) = 11
+[INFO] 12:12:01:302 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:02:303 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:02:304 cpu/(4334:4552): pid:[1] execute :: READ(260) = 12
+[INFO] 12:12:03:304 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:04:305 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:04:306 cpu/(4334:4552): pid:[1] execute :: READ(264) = 13
+[INFO] 12:12:05:308 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:06:308 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:06:309 cpu/(4334:4552): pid:[1] execute :: READ(268) = 14
+[INFO] 12:12:07:309 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:08:309 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:08:310 cpu/(4334:4552): pid:[1] execute :: READ(272) = 15
+[INFO] 12:12:09:311 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:10:312 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:10:815 cpu/(4334:4552): pid:[1] execute :: READ(512) = 21
+[INFO] 12:12:11:816 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:12:817 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:12:818 cpu/(4334:4552): pid:[1] execute :: READ(516) = 22
+[INFO] 12:12:13:819 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:14:820 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:14:821 cpu/(4334:4552): pid:[1] execute :: READ(520) = 23
+[INFO] 12:12:15:822 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:16:822 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:16:823 cpu/(4334:4552): pid:[1] execute :: READ(524) = 24
+[INFO] 12:12:17:824 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:18:825 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:18:826 cpu/(4334:4552): pid:[1] execute :: READ(528) = 25
+[INFO] 12:12:19:827 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:20:827 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:21:828 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:22:828 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:23:829 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:24:829 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:25:829 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:26:830 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:27:832 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:28:833 cpu/(4334:4552): pid:[1] execute :: NO_OP(1000)
+[INFO] 12:12:28:833 cpu/(4334:4552): pid:[1] execute :: EXIT
+[INFO] 12:12:28:838 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:12:29:839 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:30:840 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:31:841 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:32:841 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:33:842 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:34:843 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:35:845 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:36:846 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:37:847 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:38:847 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:39:350 cpu/(4334:4552): pid:[2] execute :: READ(1024) = 0
+[INFO] 12:12:40:351 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:41:352 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:42:352 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:43:353 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:44:353 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:44:855 cpu/(4334:4552): pid:[2] execute :: READ(768) = 31
+[INFO] 12:12:45:856 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:46:857 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:47:857 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:48:858 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:49:858 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:50:361 cpu/(4334:4552): pid:[2] execute :: READ(512) = 21
+[INFO] 12:12:51:362 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:52:363 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:53:364 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:54:365 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:55:366 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:55:869 cpu/(4334:4552): pid:[2] execute :: READ(256) = 11
+[INFO] 12:12:56:871 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:57:872 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:58:873 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:12:59:874 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:00:875 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:01:378 cpu/(4334:4552): Remplazando marco [0] y pagina [4], por marco [0] y pagina [0]
+[INFO] 12:13:01:378 cpu/(4334:4552): pid:[2] execute :: READ(0) = 1
+[INFO] 12:13:02:379 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:03:379 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:04:380 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:05:381 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:06:382 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:13:06:382 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:13:06:384 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:13:06:485 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:13:07:385 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:07:386 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:13:08:386 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:09:387 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:10:387 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:11:387 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:12:387 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:13:388 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:14:388 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:15:388 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:16:388 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:16:388 cpu/(4334:4552): pid:[3] execute :: WRITE(0, 1)
+[INFO] 12:13:16:891 cpu/(4334:4552): pid:[3] execute :: WRITE(4, 2)
+[INFO] 12:13:16:892 cpu/(4334:4552): pid:[3] execute :: WRITE(256, 11)
+[INFO] 12:13:17:395 cpu/(4334:4552): pid:[3] execute :: WRITE(260, 12)
+[INFO] 12:13:17:396 cpu/(4334:4552): pid:[3] execute :: WRITE(512, 21)
+[INFO] 12:13:17:898 cpu/(4334:4552): pid:[3] execute :: WRITE(516, 22)
+[INFO] 12:13:17:899 cpu/(4334:4552): pid:[3] execute :: WRITE(768, 31)
+[INFO] 12:13:18:401 cpu/(4334:4552): pid:[3] execute :: WRITE(772, 32)
+[INFO] 12:13:18:402 cpu/(4334:4552): pid:[3] execute :: WRITE(1024, 41)
+[INFO] 12:13:19:404 cpu/(4334:4552): Remplazando marco [4] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:13:19:404 cpu/(4334:4552): pid:[3] execute :: WRITE(1028, 42)
+[INFO] 12:13:19:404 cpu/(4334:4552): pid:[3] execute :: WRITE(1280, 51)
+[INFO] 12:13:20:406 cpu/(4334:4552): Remplazando marco [5] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:13:20:407 cpu/(4334:4552): pid:[3] execute :: WRITE(1284, 52)
+[INFO] 12:13:21:408 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:22:409 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:23:410 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:24:410 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:25:411 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:26:413 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:27:413 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:28:414 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:29:414 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:30:414 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:31:417 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:13:31:418 cpu/(4334:4552): pid:[3] execute :: READ(0) = 1
+[INFO] 12:13:32:421 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:13:32:422 cpu/(4334:4552): pid:[3] execute :: READ(256) = 11
+[INFO] 12:13:32:923 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [6] y pagina [2]
+[INFO] 12:13:32:925 cpu/(4334:4552): pid:[3] execute :: READ(512) = 21
+[INFO] 12:13:33:426 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [7] y pagina [3]
+[INFO] 12:13:33:427 cpu/(4334:4552): pid:[3] execute :: READ(768) = 31
+[INFO] 12:13:33:427 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:13:33:428 cpu/(4334:4552): pid:[3] execute :: READ(1024) = 41
+[INFO] 12:13:33:428 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:13:33:429 cpu/(4334:4552): pid:[3] execute :: READ(1280) = 51
+[INFO] 12:13:34:429 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:35:430 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:36:431 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:37:431 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:38:432 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:39:432 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:40:433 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:41:434 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:42:434 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:43:435 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:43:937 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:13:43:937 cpu/(4334:4552): pid:[3] execute :: READ(4) = 2
+[INFO] 12:13:44:437 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:13:44:438 cpu/(4334:4552): pid:[3] execute :: READ(260) = 12
+[INFO] 12:13:45:440 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [4] y pagina [2]
+[INFO] 12:13:45:441 cpu/(4334:4552): pid:[3] execute :: READ(516) = 22
+[INFO] 12:13:46:443 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [5] y pagina [3]
+[INFO] 12:13:46:443 cpu/(4334:4552): pid:[3] execute :: READ(772) = 32
+[INFO] 12:13:46:944 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [6] y pagina [4]
+[INFO] 12:13:46:945 cpu/(4334:4552): pid:[3] execute :: READ(1028) = 0
+[INFO] 12:13:47:446 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [7] y pagina [5]
+[INFO] 12:13:47:447 cpu/(4334:4552): pid:[3] execute :: READ(1284) = 0
+[INFO] 12:13:48:448 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:49:449 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:50:449 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:51:450 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:52:451 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:53:452 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:54:453 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:55:454 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:56:455 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:57:456 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:13:57:958 cpu/(4334:4552): Remplazando marco [4] y pagina [2], por marco [4] y pagina [0]
+[INFO] 12:13:57:959 cpu/(4334:4552): pid:[3] execute :: READ(0) = 1
+[INFO] 12:13:58:461 cpu/(4334:4552): Remplazando marco [5] y pagina [3], por marco [5] y pagina [1]
+[INFO] 12:13:58:461 cpu/(4334:4552): pid:[3] execute :: READ(256) = 11
+[INFO] 12:13:58:962 cpu/(4334:4552): Remplazando marco [6] y pagina [4], por marco [6] y pagina [2]
+[INFO] 12:13:58:962 cpu/(4334:4552): pid:[3] execute :: READ(512) = 21
+[INFO] 12:13:59:463 cpu/(4334:4552): Remplazando marco [7] y pagina [5], por marco [7] y pagina [3]
+[INFO] 12:13:59:463 cpu/(4334:4552): pid:[3] execute :: READ(768) = 31
+[INFO] 12:13:59:965 cpu/(4334:4552): Remplazando marco [4] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:13:59:965 cpu/(4334:4552): pid:[3] execute :: READ(1024) = 0
+[INFO] 12:14:00:467 cpu/(4334:4552): Remplazando marco [5] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:14:00:468 cpu/(4334:4552): pid:[3] execute :: READ(1280) = 0
+[INFO] 12:14:01:469 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:02:469 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:03:470 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:04:471 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:05:472 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:06:473 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:07:473 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:08:475 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:09:475 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:10:477 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:10:978 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:14:10:979 cpu/(4334:4552): pid:[3] execute :: READ(4) = 2
+[INFO] 12:14:11:482 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:14:11:482 cpu/(4334:4552): pid:[3] execute :: READ(260) = 12
+[INFO] 12:14:11:984 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [4] y pagina [2]
+[INFO] 12:14:11:984 cpu/(4334:4552): pid:[3] execute :: READ(516) = 22
+[INFO] 12:14:12:486 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [5] y pagina [3]
+[INFO] 12:14:12:486 cpu/(4334:4552): pid:[3] execute :: READ(772) = 32
+[INFO] 12:14:12:987 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [6] y pagina [4]
+[INFO] 12:14:12:988 cpu/(4334:4552): pid:[3] execute :: READ(1028) = 0
+[INFO] 12:14:13:490 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [7] y pagina [5]
+[INFO] 12:14:13:491 cpu/(4334:4552): pid:[3] execute :: READ(1284) = 0
+[INFO] 12:14:14:491 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:15:492 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:16:493 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:17:494 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:18:495 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:19:497 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:20:497 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:21:498 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:22:499 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:23:500 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:24:002 cpu/(4334:4552): Remplazando marco [4] y pagina [2], por marco [4] y pagina [0]
+[INFO] 12:14:24:003 cpu/(4334:4552): pid:[3] execute :: READ(0) = 1
+[INFO] 12:14:24:505 cpu/(4334:4552): Remplazando marco [5] y pagina [3], por marco [5] y pagina [1]
+[INFO] 12:14:24:506 cpu/(4334:4552): pid:[3] execute :: READ(256) = 11
+[INFO] 12:14:25:008 cpu/(4334:4552): Remplazando marco [6] y pagina [4], por marco [6] y pagina [2]
+[INFO] 12:14:25:009 cpu/(4334:4552): pid:[3] execute :: READ(512) = 21
+[INFO] 12:14:25:511 cpu/(4334:4552): Remplazando marco [7] y pagina [5], por marco [7] y pagina [3]
+[INFO] 12:14:25:511 cpu/(4334:4552): pid:[3] execute :: READ(768) = 31
+[INFO] 12:14:26:013 cpu/(4334:4552): Remplazando marco [4] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:14:26:014 cpu/(4334:4552): pid:[3] execute :: READ(1024) = 0
+[INFO] 12:14:26:515 cpu/(4334:4552): Remplazando marco [5] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:14:26:516 cpu/(4334:4552): pid:[3] execute :: READ(1280) = 0
+[INFO] 12:14:27:516 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:28:517 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:29:518 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:30:519 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:31:519 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:32:520 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:33:522 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:34:523 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:35:524 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:36:524 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:37:026 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:14:37:027 cpu/(4334:4552): pid:[3] execute :: READ(4) = 2
+[INFO] 12:14:37:528 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:14:37:529 cpu/(4334:4552): pid:[3] execute :: READ(260) = 12
+[INFO] 12:14:38:031 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [4] y pagina [2]
+[INFO] 12:14:38:032 cpu/(4334:4552): pid:[3] execute :: READ(516) = 22
+[INFO] 12:14:38:533 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [5] y pagina [3]
+[INFO] 12:14:38:534 cpu/(4334:4552): pid:[3] execute :: READ(772) = 32
+[INFO] 12:14:39:035 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [6] y pagina [4]
+[INFO] 12:14:39:035 cpu/(4334:4552): pid:[3] execute :: READ(1028) = 0
+[INFO] 12:14:39:536 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [7] y pagina [5]
+[INFO] 12:14:39:537 cpu/(4334:4552): pid:[3] execute :: READ(1284) = 0
+[INFO] 12:14:40:538 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:41:539 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:42:540 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:43:541 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:44:542 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:45:543 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:46:545 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:47:545 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:48:546 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:49:547 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:50:548 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:51:549 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:52:550 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:53:550 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:54:550 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:55:551 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:56:551 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:57:552 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:58:552 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:14:59:553 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:00:055 cpu/(4334:4552): Remplazando marco [4] y pagina [2], por marco [4] y pagina [0]
+[INFO] 12:15:00:055 cpu/(4334:4552): pid:[3] execute :: READ(0) = 1
+[INFO] 12:15:00:557 cpu/(4334:4552): Remplazando marco [5] y pagina [3], por marco [5] y pagina [1]
+[INFO] 12:15:00:558 cpu/(4334:4552): pid:[3] execute :: READ(256) = 11
+[INFO] 12:15:01:061 cpu/(4334:4552): Remplazando marco [6] y pagina [4], por marco [6] y pagina [2]
+[INFO] 12:15:01:063 cpu/(4334:4552): pid:[3] execute :: READ(512) = 21
+[INFO] 12:15:01:564 cpu/(4334:4552): Remplazando marco [7] y pagina [5], por marco [7] y pagina [3]
+[INFO] 12:15:01:564 cpu/(4334:4552): pid:[3] execute :: READ(768) = 31
+[INFO] 12:15:02:064 cpu/(4334:4552): Remplazando marco [4] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:15:02:065 cpu/(4334:4552): pid:[3] execute :: READ(1024) = 0
+[INFO] 12:15:02:566 cpu/(4334:4552): Remplazando marco [5] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:15:02:567 cpu/(4334:4552): pid:[3] execute :: READ(1280) = 0
+[INFO] 12:15:03:568 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:04:569 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:05:569 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:06:570 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:07:571 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:08:571 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:09:572 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:10:572 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:11:573 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:12:573 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:13:075 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:15:13:076 cpu/(4334:4552): pid:[3] execute :: READ(4) = 2
+[INFO] 12:15:13:578 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:15:13:579 cpu/(4334:4552): pid:[3] execute :: READ(260) = 12
+[INFO] 12:15:14:080 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [4] y pagina [2]
+[INFO] 12:15:14:080 cpu/(4334:4552): pid:[3] execute :: READ(516) = 22
+[INFO] 12:15:14:582 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [5] y pagina [3]
+[INFO] 12:15:14:583 cpu/(4334:4552): pid:[3] execute :: READ(772) = 32
+[INFO] 12:15:15:085 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [6] y pagina [4]
+[INFO] 12:15:15:086 cpu/(4334:4552): pid:[3] execute :: READ(1028) = 0
+[INFO] 12:15:15:588 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [7] y pagina [5]
+[INFO] 12:15:15:589 cpu/(4334:4552): pid:[3] execute :: READ(1284) = 0
+[INFO] 12:15:16:589 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:17:591 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:18:591 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:19:592 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:20:593 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:21:593 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:22:594 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:23:595 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:24:596 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:25:597 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:26:098 cpu/(4334:4552): Remplazando marco [4] y pagina [2], por marco [4] y pagina [0]
+[INFO] 12:15:26:100 cpu/(4334:4552): pid:[3] execute :: READ(0) = 1
+[INFO] 12:15:26:601 cpu/(4334:4552): Remplazando marco [5] y pagina [3], por marco [5] y pagina [1]
+[INFO] 12:15:26:602 cpu/(4334:4552): pid:[3] execute :: READ(256) = 11
+[INFO] 12:15:27:103 cpu/(4334:4552): Remplazando marco [6] y pagina [4], por marco [6] y pagina [2]
+[INFO] 12:15:27:104 cpu/(4334:4552): pid:[3] execute :: READ(512) = 21
+[INFO] 12:15:27:605 cpu/(4334:4552): Remplazando marco [7] y pagina [5], por marco [7] y pagina [3]
+[INFO] 12:15:27:606 cpu/(4334:4552): pid:[3] execute :: READ(768) = 31
+[INFO] 12:15:28:108 cpu/(4334:4552): Remplazando marco [4] y pagina [0], por marco [4] y pagina [4]
+[INFO] 12:15:28:109 cpu/(4334:4552): pid:[3] execute :: READ(1024) = 0
+[INFO] 12:15:28:611 cpu/(4334:4552): Remplazando marco [5] y pagina [1], por marco [5] y pagina [5]
+[INFO] 12:15:28:612 cpu/(4334:4552): pid:[3] execute :: READ(1280) = 0
+[INFO] 12:15:29:613 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:30:613 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:31:613 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:32:614 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:33:616 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:34:617 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:35:618 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:36:619 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:37:620 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:38:621 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:39:123 cpu/(4334:4552): Remplazando marco [6] y pagina [2], por marco [6] y pagina [0]
+[INFO] 12:15:39:124 cpu/(4334:4552): pid:[3] execute :: READ(4) = 2
+[INFO] 12:15:39:625 cpu/(4334:4552): Remplazando marco [7] y pagina [3], por marco [7] y pagina [1]
+[INFO] 12:15:39:626 cpu/(4334:4552): pid:[3] execute :: READ(260) = 12
+[INFO] 12:15:40:127 cpu/(4334:4552): Remplazando marco [4] y pagina [4], por marco [4] y pagina [2]
+[INFO] 12:15:40:127 cpu/(4334:4552): pid:[3] execute :: READ(516) = 22
+[INFO] 12:15:40:629 cpu/(4334:4552): Remplazando marco [5] y pagina [5], por marco [5] y pagina [3]
+[INFO] 12:15:40:630 cpu/(4334:4552): pid:[3] execute :: READ(772) = 32
+[INFO] 12:15:41:131 cpu/(4334:4552): Remplazando marco [6] y pagina [0], por marco [6] y pagina [4]
+[INFO] 12:15:41:131 cpu/(4334:4552): pid:[3] execute :: READ(1028) = 0
+[INFO] 12:15:41:632 cpu/(4334:4552): Remplazando marco [7] y pagina [1], por marco [7] y pagina [5]
+[INFO] 12:15:41:632 cpu/(4334:4552): pid:[3] execute :: READ(1284) = 0
+[INFO] 12:15:42:634 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:43:634 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:44:635 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:45:636 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:46:637 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:47:637 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:48:638 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:49:638 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:50:639 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:51:640 cpu/(4334:4552): pid:[3] execute :: NO_OP(1000)
+[INFO] 12:15:51:640 cpu/(4334:4552): pid:[3] execute :: EXIT
+[INFO] 12:15:51:645 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:15:52:646 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:53:647 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:54:647 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:55:648 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:56:649 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:56:649 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:15:56:650 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:15:56:751 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:15:57:651 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:15:57:654 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:15:58:654 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:15:58:654 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:15:58:659 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:15:58:760 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:15:59:661 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:15:59:662 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:00:663 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:01:663 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:01:663 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:01:664 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:01:764 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:02:664 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:02:664 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:03:665 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:04:666 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:05:667 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:05:667 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:16:05:671 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:05:772 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:06:673 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:06:673 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:07:674 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:07:674 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:07:678 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:07:779 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:08:679 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:08:680 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:09:680 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:10:681 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:10:682 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:10:686 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:10:788 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:11:686 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:11:691 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:12:692 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:13:692 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:14:693 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:14:693 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:16:14:697 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:14:799 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:15:698 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:15:701 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:16:702 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:16:702 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:16:706 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:16:808 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:17:708 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:17:711 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:18:712 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:19:712 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:19:712 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:19:717 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:19:818 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:20:718 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:20:722 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:21:723 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:22:724 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:23:724 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:23:725 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:16:23:729 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:23:830 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:24:731 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:24:734 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:25:735 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:25:735 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:25:739 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:25:841 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:26:740 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:26:744 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:27:745 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:28:746 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:28:746 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:28:750 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:28:852 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:29:752 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:29:753 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:30:754 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:31:755 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:32:756 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:32:756 cpu/(4334:4552): pid:[2] execute :: I_O(100)
+[INFO] 12:16:32:760 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:32:861 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:33:761 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:33:765 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:34:766 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:34:766 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:34:768 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:34:869 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:35:770 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:35:773 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:36:774 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:37:774 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:37:774 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:37:778 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:37:880 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:38:779 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:38:783 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:39:784 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:40:785 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:41:785 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:42:786 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:43:787 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:44:788 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:45:789 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:46:790 cpu/(4334:4552): pid:[2] execute :: NO_OP(1000)
+[INFO] 12:16:46:790 cpu/(4334:4552): pid:[2] execute :: EXIT
+[INFO] 12:16:46:795 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:47:797 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:48:797 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:48:797 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:48:803 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:48:803 cpu/(4334:4552): pid:[5] execute :: WRITE(0, 1)
+[INFO] 12:16:48:904 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:49:304 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:50:305 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:51:306 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:51:306 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:51:311 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:51:413 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:52:313 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:16:52:318 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:53:318 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:54:320 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:16:54:320 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:16:54:325 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:54:425 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:16:55:326 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:16:55:330 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:16:56:330 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:16:57:332 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:16:58:332 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:16:59:333 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:00:334 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:01:335 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:02:336 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:03:337 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:03:338 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:17:03:343 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:03:445 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:04:344 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:04:347 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:05:348 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:05:348 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:05:352 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:05:352 cpu/(4334:4552): pid:[5] execute :: WRITE(4, 2)
+[INFO] 12:17:05:453 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:06:353 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:06:354 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:07:354 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:08:355 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:08:355 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:08:360 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:08:460 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:09:361 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:09:368 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:10:371 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:11:372 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:12:373 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:13:374 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:14:375 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:15:376 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:16:376 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:17:379 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:17:379 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:17:17:381 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:17:481 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:18:381 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:18:386 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:19:387 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:19:387 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:19:391 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:19:392 cpu/(4334:4552): pid:[5] execute :: WRITE(256, 11)
+[INFO] 12:17:19:494 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:19:899 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:20:900 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:21:901 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:21:902 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:21:906 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:22:007 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:22:907 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:22:908 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:23:909 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:24:909 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:25:910 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:26:911 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:27:912 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:28:913 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:29:914 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:30:915 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:31:915 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:31:916 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:17:31:922 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:32:024 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:32:923 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:32:927 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:33:928 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:33:928 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:33:934 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:33:935 cpu/(4334:4552): pid:[5] execute :: WRITE(260, 12)
+[INFO] 12:17:34:037 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:34:937 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:34:942 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:35:943 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:36:944 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:36:945 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:36:952 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:37:053 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:37:954 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:37:955 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:38:955 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:39:956 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:40:957 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:41:958 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:42:958 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:43:959 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:44:959 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:45:960 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:45:960 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:17:45:962 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:46:063 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:46:963 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:46:969 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:47:970 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:47:970 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:47:974 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:47:975 cpu/(4334:4552): pid:[5] execute :: READ(0) = 1
+[INFO] 12:17:48:075 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:48:976 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:48:977 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:49:978 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:50:978 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:17:50:978 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:17:50:979 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:51:079 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:17:51:980 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:51:982 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:17:52:982 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:53:983 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:54:984 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:55:984 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:56:988 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:57:990 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:58:990 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:59:991 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:17:59:992 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:17:59:996 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:00:098 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:00:997 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:00:998 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:01:999 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:01:999 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:02:001 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:02:001 cpu/(4334:4552): pid:[5] execute :: READ(256) = 11
+[INFO] 12:18:02:101 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:03:001 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:03:003 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:04:005 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:05:006 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:05:006 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:05:012 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:05:114 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:06:013 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:06:020 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:07:022 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:08:023 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:09:024 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:10:025 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:11:026 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:12:026 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:13:028 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:14:028 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:14:029 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:18:14:030 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:14:137 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:15:032 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:15:041 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:16:042 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:16:042 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:16:043 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:16:043 cpu/(4334:4552): pid:[5] execute :: READ(4) = 2
+[INFO] 12:18:16:145 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:17:044 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:17:045 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:18:046 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:19:046 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:19:046 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:19:047 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:19:148 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:20:048 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:20:052 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:21:053 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:22:053 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:23:054 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:24:054 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:25:055 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:26:056 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:27:057 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:28:058 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:28:059 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:18:28:064 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:28:165 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:29:065 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:29:066 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:30:067 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:30:067 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:30:068 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:30:068 cpu/(4334:4552): pid:[5] execute :: READ(260) = 12
+[INFO] 12:18:30:170 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:31:069 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:31:075 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:32:075 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:33:076 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:33:076 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:33:082 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:33:183 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:34:082 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:34:089 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:35:091 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:36:092 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:37:093 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:38:094 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:39:095 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:40:096 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:41:096 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:42:097 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:42:097 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:18:42:098 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:42:201 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:43:099 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:43:103 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:44:104 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:44:104 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:44:105 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:44:105 cpu/(4334:4552): pid:[5] execute :: WRITE(512, 21)
+[INFO] 12:18:44:206 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:44:608 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:45:609 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:46:609 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:46:610 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:46:615 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:46:717 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:47:616 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:47:623 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:48:625 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:49:625 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:50:626 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:51:627 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:52:628 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:53:629 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:54:629 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:55:630 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:56:631 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:56:631 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:18:56:638 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:56:739 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:57:638 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:57:639 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:58:640 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:18:58:640 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:18:58:645 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:18:58:646 cpu/(4334:4552): pid:[5] execute :: WRITE(516, 22)
+[INFO] 12:18:58:749 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:18:59:648 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:18:59:649 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:00:649 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:19:01:650 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:19:01:651 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:19:01:656 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:01:758 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:19:02:658 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:02:665 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:03:666 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:04:667 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:05:668 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:06:669 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:07:670 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:08:671 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:09:672 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:10:673 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:10:673 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:19:10:678 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:10:780 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:19:11:678 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:19:11:683 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:12:684 cpu/(4334:4552): pid:[4] execute :: NO_OP(1000)
+[INFO] 12:19:12:685 cpu/(4334:4552): pid:[4] execute :: I_O(100)
+[INFO] 12:19:12:690 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:12:691 cpu/(4334:4552): pid:[5] execute :: WRITE(768, 31)
+[INFO] 12:19:12:792 cpu/(4334:4551): interrupt :: interrupcion de cpu
+[INFO] 12:19:13:198 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:13:199 cpu/(4334:4552): pid:[4] execute :: EXIT
+[INFO] 12:19:13:216 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:14:217 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:15:218 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:16:219 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:17:221 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:18:222 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:19:223 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:20:225 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:21:225 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:22:226 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:23:227 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:23:228 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:19:23:335 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:23:336 cpu/(4334:4552): pid:[5] execute :: WRITE(772, 32)
+[INFO] 12:19:24:337 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:25:338 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:26:339 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:27:340 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:28:342 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:29:343 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:30:345 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:31:346 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:32:347 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:33:348 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:33:349 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:19:33:458 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:33:459 cpu/(4334:4552): pid:[5] execute :: READ(512) = 21
+[INFO] 12:19:34:460 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:35:461 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:36:461 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:37:462 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:38:462 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:39:463 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:40:464 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:41:465 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:42:466 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:43:467 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:43:467 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:19:43:569 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:43:569 cpu/(4334:4552): pid:[5] execute :: READ(516) = 22
+[INFO] 12:19:44:569 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:45:570 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:46:571 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:47:572 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:48:573 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:49:574 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:50:574 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:51:576 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:52:577 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:53:578 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:53:578 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:19:53:686 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:19:53:688 cpu/(4334:4552): pid:[5] execute :: READ(768) = 31
+[INFO] 12:19:54:689 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:55:690 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:56:691 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:57:691 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:58:692 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:19:59:693 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:00:694 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:01:695 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:02:695 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:03:695 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:03:696 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:20:03:799 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:20:03:799 cpu/(4334:4552): pid:[5] execute :: READ(772) = 32
+[INFO] 12:20:04:799 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:05:800 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:06:801 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:07:802 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:08:802 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:09:803 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:10:804 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:11:804 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:12:805 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:13:806 cpu/(4334:4552): pid:[5] execute :: NO_OP(1000)
+[INFO] 12:20:13:807 cpu/(4334:4552): pid:[5] execute :: I_O(100)
+[INFO] 12:20:13:914 cpu/(4334:4552): Se limpio la TLB por nuevo proceso
+[INFO] 12:20:13:914 cpu/(4334:4552): pid:[5] execute :: EXIT
+[ERROR] 12:21:03:038 cpu/(4334:4552): dispatch :: desconectado. error:[10200] msg:[Conexion perdida]
+[ERROR] 12:21:03:039 cpu/(4334:4551): interrupt :: desconectado. error:[10200] msg:[Conexion perdida]

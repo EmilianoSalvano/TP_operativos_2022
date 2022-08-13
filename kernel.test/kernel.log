@@ -1,0 +1,466 @@
+[INFO] 17:12:41:674 kernel/(29212:29212): Inicio de ejecucion de kernel ...
+
+[INFO] 17:58:44:346 kernel/(851:851): Inicio de ejecucion de kernel ...
+
+[INFO] 18:00:59:392 kernel/(1181:1181): Inicio de ejecucion de kernel ...
+
+[INFO] 18:13:32:467 kernel/(2381:2381): Inicio de ejecucion de kernel ...
+
+[INFO] 18:14:47:765 kernel/(2573:2573): Inicio de ejecucion de kernel ...
+
+[INFO] 19:07:19:735 kernel/(7324:7324): Inicio de ejecucion de kernel ...
+
+[INFO] 19:10:13:757 kernel/(7324:7324): Iniciando modulo de administracion de consolas ...
+
+[INFO] 19:10:31:814 kernel/(7324:7324): Servidor de consolas iniciado en ip:[ø)¨*] port:[Ãö[] socket:[2]
+
+[INFO] 19:11:18:801 kernel/(7324:7839): Servidor de comsolas preparado y escuchando ...
+
+[INFO] 19:11:45:875 kernel/(7324:7324): Modulo de administracion de consolas iniciado :)
+
+[INFO] 19:27:04:025 kernel/(9523:9523): Inicio de ejecucion de kernel ...
+
+[INFO] 19:27:09:532 kernel/(9523:9523): Iniciando modulo de administracion de consolas ...
+
+[INFO] 19:27:34:299 kernel/(9523:9523): Servidor de consolas iniciado en ip:[¨)X*] port:[Ãö[] socket:[2]
+
+[INFO] 19:42:30:629 kernel/(10973:10973): Inicio de ejecucion de kernel ...
+
+[INFO] 19:43:33:281 kernel/(10973:10973): Iniciando modulo de administracion de consolas ...
+
+[INFO] 19:44:13:906 kernel/(10973:10973): Servidor de consolas iniciado en ip:[È.1] port:[Ã3T] socket:[2]
+
+[INFO] 20:17:22:427 kernel/(14104:14104): Inicio de ejecucion de kernel ...
+
+[INFO] 20:18:54:717 kernel/(14325:14325): Inicio de ejecucion de kernel ...
+
+[INFO] 20:22:50:624 kernel/(14791:14791): Inicio de ejecucion de kernel ...
+
+[INFO] 20:35:56:671 kernel/(15966:15966): Inicio de ejecucion de kernel ...
+
+[INFO] 20:36:09:286 kernel/(15966:15966): Iniciando modulo de administracion de consolas ...
+
+[INFO] 20:36:13:883 kernel/(15966:15966): Servidor de consolas iniciado en ip:[¨)X*] port:[ÃT] socket:[2]
+
+[INFO] 20:21:05:598 kernel/(3400:3400): Inicio de ejecucion de kernel ...
+
+[INFO] 20:21:05:662 kernel/(3400:3400): Iniciando interface al modulo de memoria ...
+
+[INFO] 20:21:05:664 kernel/(3400:3400): Conectando interface al modulo de memoria ...
+
+[INFO] 20:21:05:690 kernel/(3400:3400): Interface al modulo de memoria conectada :)
+
+[INFO] 20:21:05:690 kernel/(3400:3400): Interface al modulo de memoria establecida
+
+[INFO] 20:21:05:696 kernel/(3400:3400): Iniciando interface con modulo CPU ...
+
+[INFO] 20:21:05:705 kernel/(3400:3400): Conectando al puerto 'interrupt' de CPU ip:[127.0.0.1] port:[8005] ...
+
+[INFO] 20:21:05:728 kernel/(3400:3400): Puerto 'interrupt' de CPU conectado!
+
+[INFO] 20:21:05:731 kernel/(3400:3400): Conectando al puerto 'dispatch' de CPU ip:[127.0.0.1] port:[8001] ...
+
+[INFO] 20:21:05:751 kernel/(3400:3400): Puerto 'dispatch' de CPU conectado!
+
+[INFO] 20:21:05:752 kernel/(3400:3400): Interface con modulo CPU establecida :)
+
+[INFO] 20:21:05:845 kernel/(3400:3400): Iniciando planificador ...
+
+[INFO] 20:21:05:847 kernel/(3400:3400): Iniciando planificador de largo plazo ...
+
+[INFO] 20:21:05:858 kernel/(3400:3421): [PLP] :: controlador de procesos 'NEW' y 'SUSPENDED_READY' iniciado
+
+[INFO] 20:21:05:863 kernel/(3400:3400): Iniciando planificador de mediano plazo ...
+
+[INFO] 20:21:05:868 kernel/(3400:3400): Iniciando planificador de corto plazo ...
+
+[INFO] 20:21:05:872 kernel/(3400:3422): [PLP] :: controlador de procesos 'EXIT' iniciado
+
+[INFO] 20:21:05:872 kernel/(3400:3423): [PMP] :: controlador de procesos 'BLOCKED' y 'SUSPENDED_BLOCKED' iniciado
+
+[INFO] 20:21:05:882 kernel/(3400:3424): [PCP] :: planificador de corto plazo iniciado con algoritmo SRT
+
+[INFO] 20:21:05:883 kernel/(3400:3400): Iniciando modulo de administracion de consolas ip:[127.0.0.1] port:[8000] ...
+
+[INFO] 20:21:05:892 kernel/(3400:3400): Servidor de consolas iniciado en ip:[127.0.0.1] port:[8000] socket:[5]
+
+[INFO] 20:21:05:897 kernel/(3400:3400): Modulo de administracion de consolas iniciado :)
+
+[INFO] 20:21:05:900 kernel/(3400:3425): Servidor de consolas preparado y escuchando ...
+
+[INFO] 20:21:07:937 kernel/(3400:3428): Procesando handshake con consola ...
+
+[INFO] 20:21:07:954 kernel/(3400:3428): Conexion con consola:[6] aceptada
+
+[INFO] 20:21:07:955 kernel/(3400:3428): Nueva consola conectada con socket:[6] ip:[(null)]
+
+[INFO] 20:21:07:956 kernel/(3400:3428): Aguardo codigo de programa en socket:[6] ip:[(null)] ...
+
+[INFO] 20:21:07:968 kernel/(3400:3428): pcb:[1] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:21:07:975 kernel/(3400:3428): pcb:[1] :: [NULL] => [NEW]
+
+[INFO] 20:21:08:437 kernel/(3400:3433): Procesando handshake con consola ...
+
+[INFO] 20:21:08:438 kernel/(3400:3433): Conexion con consola:[14] aceptada
+
+[INFO] 20:21:08:439 kernel/(3400:3433): Nueva consola conectada con socket:[14] ip:[(null)]
+
+[INFO] 20:21:08:439 kernel/(3400:3433): Aguardo codigo de programa en socket:[14] ip:[(null)] ...
+
+[INFO] 20:21:08:440 kernel/(3400:3433): pcb:[2] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:21:08:440 kernel/(3400:3433): pcb:[2] :: [NULL] => [NEW]
+
+[DEBUG] 20:21:08:501 kernel/(3400:3421): pcb:[1] :: tabla de paginas:[70] asignada
+
+[INFO] 20:21:08:503 kernel/(3400:3421): pcb:[1] :: [NEW] => [READY] , con sub-estado:[NEW]
+
+[INFO] 20:21:08:940 kernel/(3400:3435): Procesando handshake con consola ...
+
+[INFO] 20:21:08:941 kernel/(3400:3435): Conexion con consola:[15] aceptada
+
+[INFO] 20:21:08:942 kernel/(3400:3435): Nueva consola conectada con socket:[15] ip:[(null)]
+
+[INFO] 20:21:08:944 kernel/(3400:3435): Aguardo codigo de programa en socket:[15] ip:[(null)] ...
+
+[INFO] 20:21:08:945 kernel/(3400:3435): pcb:[3] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:21:08:947 kernel/(3400:3435): pcb:[3] :: [NULL] => [NEW]
+
+[DEBUG] 20:21:09:009 kernel/(3400:3421): pcb:[2] :: tabla de paginas:[69] asignada
+
+[INFO] 20:21:09:010 kernel/(3400:3421): pcb:[2] :: [NEW] => [READY] , con sub-estado:[NEW]
+
+[INFO] 20:26:11:574 kernel/(3423:3423): Inicio de ejecucion de kernel ...
+
+[INFO] 20:26:11:748 kernel/(3423:3423): Iniciando interface al modulo de memoria ...
+
+[INFO] 20:26:11:750 kernel/(3423:3423): Conectando interface al modulo de memoria ...
+
+[INFO] 20:26:11:795 kernel/(3423:3423): Interface al modulo de memoria conectada :)
+
+[INFO] 20:26:11:817 kernel/(3423:3423): Interface al modulo de memoria establecida
+
+[INFO] 20:26:11:818 kernel/(3423:3423): Iniciando interface con modulo CPU ...
+
+[INFO] 20:26:11:819 kernel/(3423:3423): Conectando al puerto 'interrupt' de CPU ip:[127.0.0.1] port:[8005] ...
+
+[INFO] 20:26:11:827 kernel/(3423:3423): Puerto 'interrupt' de CPU conectado!
+
+[INFO] 20:26:11:829 kernel/(3423:3423): Conectando al puerto 'dispatch' de CPU ip:[127.0.0.1] port:[8001] ...
+
+[INFO] 20:26:11:874 kernel/(3423:3423): Puerto 'dispatch' de CPU conectado!
+
+[INFO] 20:26:11:952 kernel/(3423:3423): Interface con modulo CPU establecida :)
+
+[INFO] 20:26:11:954 kernel/(3423:3423): Iniciando planificador ...
+
+[INFO] 20:26:11:956 kernel/(3423:3423): Iniciando planificador de largo plazo ...
+
+[INFO] 20:26:11:972 kernel/(3423:3423): Iniciando planificador de mediano plazo ...
+
+[INFO] 20:26:11:973 kernel/(3423:3444): [PLP] :: controlador de procesos 'EXIT' iniciado
+
+[INFO] 20:26:11:975 kernel/(3423:3443): [PLP] :: controlador de procesos 'NEW' y 'SUSPENDED_READY' iniciado
+
+[INFO] 20:26:11:979 kernel/(3423:3423): Iniciando planificador de corto plazo ...
+
+[INFO] 20:26:11:981 kernel/(3423:3445): [PMP] :: controlador de procesos 'BLOCKED' y 'SUSPENDED_BLOCKED' iniciado
+
+[INFO] 20:26:11:982 kernel/(3423:3423): Iniciando modulo de administracion de consolas ip:[127.0.0.1] port:[8000] ...
+
+[INFO] 20:26:11:983 kernel/(3423:3423): Servidor de consolas iniciado en ip:[127.0.0.1] port:[8000] socket:[5]
+
+[INFO] 20:26:11:988 kernel/(3423:3446): [PCP] :: planificador de corto plazo iniciado con algoritmo FIFO
+
+[INFO] 20:26:11:990 kernel/(3423:3423): Modulo de administracion de consolas iniciado :)
+
+[INFO] 20:26:11:991 kernel/(3423:3447): Servidor de consolas preparado y escuchando ...
+
+[INFO] 20:26:14:102 kernel/(3423:3450): Procesando handshake con consola ...
+
+[INFO] 20:26:14:105 kernel/(3423:3450): Conexion con consola:[6] aceptada
+
+[INFO] 20:26:14:176 kernel/(3423:3450): Nueva consola conectada con socket:[6] ip:[(null)]
+
+[INFO] 20:26:14:177 kernel/(3423:3450): Aguardo codigo de programa en socket:[6] ip:[(null)] ...
+
+[INFO] 20:26:14:211 kernel/(3423:3450): pcb:[1] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:26:14:222 kernel/(3423:3450): pcb:[1] :: [NULL] => [NEW]
+
+[INFO] 20:26:14:608 kernel/(3423:3455): Procesando handshake con consola ...
+
+[INFO] 20:26:14:609 kernel/(3423:3455): Conexion con consola:[14] aceptada
+
+[INFO] 20:26:14:612 kernel/(3423:3455): Nueva consola conectada con socket:[14] ip:[(null)]
+
+[INFO] 20:26:14:612 kernel/(3423:3455): Aguardo codigo de programa en socket:[14] ip:[(null)] ...
+
+[INFO] 20:26:14:613 kernel/(3423:3455): pcb:[2] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:26:14:614 kernel/(3423:3455): pcb:[2] :: [NULL] => [NEW]
+
+[DEBUG] 20:26:14:785 kernel/(3423:3443): pcb:[1] :: tabla de paginas:[59] asignada
+
+[INFO] 20:26:14:794 kernel/(3423:3443): pcb:[1] :: [NEW] => [READY]
+
+[INFO] 20:26:15:112 kernel/(3423:3458): Procesando handshake con consola ...
+
+[INFO] 20:26:15:119 kernel/(3423:3458): Conexion con consola:[15] aceptada
+
+[INFO] 20:26:15:119 kernel/(3423:3458): Nueva consola conectada con socket:[15] ip:[(null)]
+
+[INFO] 20:26:15:120 kernel/(3423:3458): Aguardo codigo de programa en socket:[15] ip:[(null)] ...
+
+[INFO] 20:26:15:121 kernel/(3423:3458): pcb:[3] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+
+[INFO] 20:26:15:133 kernel/(3423:3456): pcb:[1] recibido por dispatch
+
+[INFO] 20:26:15:141 kernel/(3423:3456): pcb:[1] :: procesando respuesta de dispatch en condicion de desalojo:[IO_SYSCALL]
+
+[INFO] 20:26:15:144 kernel/(3423:3458): pcb:[3] :: [NULL] => [NEW]
+
+[INFO] 20:26:15:146 kernel/(3423:3456): pcb:[1] :: [EXEC] => [BLOCKED]
+
+[INFO] 20:26:15:171 kernel/(3423:3445): pcb:[1] :: en ejecucion de E/S con duracion:[5000 msec]
+
+[DEBUG] 20:26:15:324 kernel/(3423:3443): pcb:[2] :: tabla de paginas:[33] asignada
+
+[INFO] 20:26:15:324 kernel/(3423:3443): pcb:[2] :: [NEW] => [READY]
+
+[DEBUG] 20:26:15:828 kernel/(3423:3443): pcb:[3] :: tabla de paginas:[2] asignada
+
+[INFO] 20:26:15:829 kernel/(3423:3443): pcb:[3] :: [NEW] => [READY]
+
+[INFO] 20:26:16:338 kernel/(3423:3461): pcb:[2] recibido por dispatch
+
+[INFO] 20:26:16:344 kernel/(3423:3461): pcb:[2] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+
+[INFO] 20:26:16:345 kernel/(3423:3461): pcb:[2] :: [EXEC] => [EXIT]
+
+[DEBUG] 20:26:16:346 kernel/(3423:3461): pcb:[2] :: incrementa el grado de multiprogramacion por [EXIT]
+
+[INFO] 20:26:16:658 kernel/(3423:3468): pcb:[3] recibido por dispatch
+
+[INFO] 20:26:16:659 kernel/(3423:3468): pcb:[3] :: procesando respuesta de dispatch en condicion de desalojo:[IO_SYSCALL]
+
+[INFO] 20:26:16:660 kernel/(3423:3468): pcb:[3] :: [EXEC] => [BLOCKED]
+
+[INFO] 20:26:16:851 kernel/(3423:3444): Error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+
+[INFO] 20:26:16:854 kernel/(3423:3444): Consola terminada, socket:[14]
+
+[INFO] 20:26:16:857 kernel/(3423:3444): pcb:[2] :: estadisticas de procesamiento
+> instrucciones: 11
+> program counter: 11
+> estado final: COMPLETADO
+> uso de cpu: 1, tiempo total: 1010 msec
+> uso E/S: 0, tiempo total: 0 msec
+> tiempo en ejecucion: 1010 msec
+> tiempo total de proceso: 2243 msec
+
+[INFO] 20:26:16:863 kernel/(3423:3444): pcb:[2] :: finalizado
+
+[INFO] 20:26:20:180 kernel/(3423:3460): pcb:[1] :: [BLOCKED] => [READY]
+
+[INFO] 20:26:20:181 kernel/(3423:3445): pcb:[3] :: en ejecucion de E/S con duracion:[5000 msec]
+
+[INFO] 20:26:20:495 kernel/(3423:3474): pcb:[1] recibido por dispatch
+
+[INFO] 20:26:20:497 kernel/(3423:3474): pcb:[1] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+
+[INFO] 20:26:20:498 kernel/(3423:3474): pcb:[1] :: [EXEC] => [EXIT]
+
+[DEBUG] 20:26:20:500 kernel/(3423:3474): pcb:[1] :: incrementa el grado de multiprogramacion por [EXIT]
+
+[INFO] 20:26:21:001 kernel/(3423:3444): Error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+
+[INFO] 20:26:21:003 kernel/(3423:3444): Consola terminada, socket:[6]
+
+[INFO] 20:26:21:004 kernel/(3423:3444): pcb:[1] :: estadisticas de procesamiento
+> instrucciones: 8
+> program counter: 8
+> estado final: COMPLETADO
+> uso de cpu: 2, tiempo total: 631 msec
+> uso E/S: 1, tiempo total: 5000 msec
+> tiempo en ejecucion: 5631 msec
+> tiempo total de proceso: 6793 msec
+
+[INFO] 20:26:21:004 kernel/(3423:3444): pcb:[1] :: finalizado
+
+[INFO] 20:26:25:191 kernel/(3423:3473): pcb:[3] :: [BLOCKED] => [READY]
+
+[INFO] 20:26:25:494 kernel/(3423:3484): pcb:[3] recibido por dispatch
+
+[INFO] 20:26:25:495 kernel/(3423:3484): pcb:[3] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+
+[INFO] 20:26:25:496 kernel/(3423:3484): pcb:[3] :: [EXEC] => [EXIT]
+
+[DEBUG] 20:26:25:496 kernel/(3423:3484): pcb:[3] :: incrementa el grado de multiprogramacion por [EXIT]
+
+[INFO] 20:26:25:997 kernel/(3423:3444): Error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+
+[INFO] 20:26:25:997 kernel/(3423:3444): Consola terminada, socket:[15]
+
+[INFO] 20:26:25:998 kernel/(3423:3444): pcb:[3] :: estadisticas de procesamiento
+> instrucciones: 8
+> program counter: 8
+> estado final: COMPLETADO
+> uso de cpu: 2, tiempo total: 604 msec
+> uso E/S: 1, tiempo total: 5000 msec
+> tiempo en ejecucion: 5604 msec
+> tiempo total de proceso: 10877 msec
+
+[INFO] 20:26:25:998 kernel/(3423:3444): pcb:[3] :: finalizado
+
+[INFO] 20:31:15:997 kernel/(3423:3423): Modulo de administracion de consolas detenido
+
+[INFO] 20:31:15:998 kernel/(3423:3447): Servidor de consolas desconectado
+
+[INFO] 20:31:15:998 kernel/(3423:3443): [PLP] :: controlador de procesos 'NEW' y 'SUSPENDED_READY' detenido
+
+[INFO] 20:31:16:000 kernel/(3423:3444): [PLP] :: Controlador de procesos 'EXIT' detenido
+
+[INFO] 20:31:16:002 kernel/(3423:3445): [PMP] :: controlador de procesos 'BLOCKED' y 'SUSPENDED_BLOCKED' detenido
+
+[INFO] 20:31:16:004 kernel/(3423:3446): [PCP] :: planificador de corto plazo detenido
+
+[INFO] 20:31:16:010 kernel/(3423:3423): Programa terminado :)
+
+[INFO] 02:13:25:790 kernel/(15892:15892): Inicio de ejecucion de kernel ...
+[INFO] 02:13:25:886 kernel/(15892:15892): Iniciando interface al modulo de memoria ...
+[INFO] 02:13:25:890 kernel/(15892:15892): Conectando interface al modulo de memoria ...
+[INFO] 02:13:25:934 kernel/(15892:15892): Interface al modulo de memoria conectada :)
+[INFO] 02:13:25:935 kernel/(15892:15892): Interface al modulo de memoria establecida
+[INFO] 02:13:25:935 kernel/(15892:15892): Iniciando interface con modulo CPU ...
+[INFO] 02:13:25:956 kernel/(15892:15892): Conectando al puerto 'interrupt' de CPU ip:[127.0.0.1] port:[8005] ...
+[INFO] 02:13:26:031 kernel/(15892:15892): Puerto 'interrupt' de CPU conectado!
+[INFO] 02:13:26:056 kernel/(15892:15892): Conectando al puerto 'dispatch' de CPU ip:[127.0.0.1] port:[8001] ...
+[INFO] 02:13:26:059 kernel/(15892:15892): Puerto 'dispatch' de CPU conectado!
+[INFO] 02:13:26:059 kernel/(15892:15892): Interface con modulo CPU establecida :)
+[INFO] 02:13:26:060 kernel/(15892:15892): Iniciando planificador ...
+[INFO] 02:13:26:060 kernel/(15892:15892): Iniciando planificador de largo plazo ...
+[INFO] 02:13:26:071 kernel/(15892:15892): Iniciando planificador de mediano plazo ...
+[INFO] 02:13:26:072 kernel/(15892:15913): [PLP] :: controlador de procesos 'EXIT' iniciado
+[INFO] 02:13:26:073 kernel/(15892:15912): [PLP] :: controlador de procesos 'NEW' y 'SUSPENDED_READY' iniciado
+[INFO] 02:13:26:074 kernel/(15892:15892): Iniciando planificador de corto plazo ...
+[INFO] 02:13:26:076 kernel/(15892:15914): [PMP] :: controlador de procesos 'BLOCKED' y 'SUSPENDED_BLOCKED' iniciado
+[INFO] 02:13:26:078 kernel/(15892:15892): Iniciando modulo de administracion de consolas ip:[127.0.0.1] port:[8000] ...
+[INFO] 02:13:26:083 kernel/(15892:15892): Servidor de consolas iniciado en ip:[127.0.0.1] port:[8000] socket:[5]
+[INFO] 02:13:26:084 kernel/(15892:15915): [PCP] :: planificador de corto plazo iniciado con algoritmo 'FIFO'
+[DEBUG] 02:13:26:086 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[INFO] 02:13:26:087 kernel/(15892:15892): Modulo de administracion de consolas iniciado :)
+[INFO] 02:13:26:089 kernel/(15892:15916): Servidor de consolas preparado y escuchando ...
+[INFO] 02:13:28:119 kernel/(15892:15919): Procesando handshake con consola ...
+[INFO] 02:13:28:122 kernel/(15892:15919): Conexion con consola:[12] aceptada
+[INFO] 02:13:28:139 kernel/(15892:15919): Nueva consola conectada con socket:[12] ip:[(null)]
+[INFO] 02:13:28:150 kernel/(15892:15919): pcb:[1] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+[INFO] 02:13:28:150 kernel/(15892:15919): pcb:[1] :: [NULL] => [NEW]
+[INFO] 02:13:28:619 kernel/(15892:15921): Procesando handshake con consola ...
+[INFO] 02:13:28:620 kernel/(15892:15921): Conexion con consola:[14] aceptada
+[INFO] 02:13:28:620 kernel/(15892:15921): Nueva consola conectada con socket:[14] ip:[(null)]
+[INFO] 02:13:28:621 kernel/(15892:15921): pcb:[2] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+[INFO] 02:13:28:621 kernel/(15892:15921): pcb:[2] :: [NULL] => [NEW]
+[DEBUG] 02:13:28:687 kernel/(15892:15912): pcb:[1] :: tabla de paginas:[73] asignada
+[INFO] 02:13:28:688 kernel/(15892:15912): pcb:[1] :: [NEW] => [READY]
+[DEBUG] 02:13:28:689 kernel/(15892:15915): wait :: planner->stp_sem_dispatch
+[INFO] 02:13:28:691 kernel/(15892:15915): pcb:[1] :: [READY] => [EXEC]
+[DEBUG] 02:13:28:702 kernel/(15892:15915): pcb:[1] enviado a CPU por dispatch
+[DEBUG] 02:13:28:703 kernel/(15892:15915): cpu_dispatch_pcb :: cpu->busy:[TRUE]
+[DEBUG] 02:13:28:705 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[DEBUG] 02:13:29:009 kernel/(15892:15922): pcb:[1] recibido por dispatch
+[DEBUG] 02:13:29:010 kernel/(15892:15922): cpu_recieve_pcb_async :: cpu->busy:[FALSE]
+[INFO] 02:13:29:012 kernel/(15892:15922): pcb:[1] :: procesando respuesta de dispatch en condicion de desalojo:[IO_SYSCALL]
+[INFO] 02:13:29:015 kernel/(15892:15922): pcb:[1] :: [EXEC] => [BLOCKED]
+[INFO] 02:13:29:025 kernel/(15892:15914): pcb:[1] :: en ejecucion de E/S con duracion:[5000 msec]
+[DEBUG] 02:13:29:026 kernel/(15892:15922): post :: planner->stp_sem_dispatch
+[INFO] 02:13:29:123 kernel/(15892:15929): Procesando handshake con consola ...
+[INFO] 02:13:29:123 kernel/(15892:15929): Conexion con consola:[16] aceptada
+[INFO] 02:13:29:124 kernel/(15892:15929): Nueva consola conectada con socket:[16] ip:[(null)]
+[INFO] 02:13:29:125 kernel/(15892:15929): pcb:[3] :: nuevo proceso ingresado al planificador de largo plazo. process-size:[100]
+[INFO] 02:13:29:125 kernel/(15892:15929): pcb:[3] :: [NULL] => [NEW]
+[DEBUG] 02:13:29:201 kernel/(15892:15912): pcb:[2] :: tabla de paginas:[23] asignada
+[INFO] 02:13:29:206 kernel/(15892:15912): pcb:[2] :: [NEW] => [READY]
+[DEBUG] 02:13:29:206 kernel/(15892:15915): wait :: planner->stp_sem_dispatch
+[INFO] 02:13:29:207 kernel/(15892:15915): pcb:[2] :: [READY] => [EXEC]
+[DEBUG] 02:13:29:208 kernel/(15892:15915): pcb:[2] enviado a CPU por dispatch
+[DEBUG] 02:13:29:208 kernel/(15892:15915): cpu_dispatch_pcb :: cpu->busy:[TRUE]
+[DEBUG] 02:13:29:209 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[DEBUG] 02:13:29:710 kernel/(15892:15912): pcb:[3] :: tabla de paginas:[82] asignada
+[INFO] 02:13:29:710 kernel/(15892:15912): pcb:[3] :: [NEW] => [READY]
+[DEBUG] 02:13:29:711 kernel/(15892:15915): wait :: planner->stp_sem_dispatch
+[DEBUG] 02:13:30:214 kernel/(15892:15933): pcb:[2] recibido por dispatch
+[DEBUG] 02:13:30:214 kernel/(15892:15933): cpu_recieve_pcb_async :: cpu->busy:[FALSE]
+[INFO] 02:13:30:215 kernel/(15892:15933): pcb:[2] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+[INFO] 02:13:30:215 kernel/(15892:15933): pcb:[2] :: [EXEC] => [EXIT]
+[DEBUG] 02:13:30:216 kernel/(15892:15933): pcb:[2] :: incrementa el grado de multiprogramacion por [EXIT]
+[DEBUG] 02:13:30:220 kernel/(15892:15933): post :: planner->stp_sem_dispatch
+[INFO] 02:13:30:221 kernel/(15892:15915): pcb:[3] :: [READY] => [EXEC]
+[DEBUG] 02:13:30:222 kernel/(15892:15915): pcb:[3] enviado a CPU por dispatch
+[DEBUG] 02:13:30:223 kernel/(15892:15915): cpu_dispatch_pcb :: cpu->busy:[TRUE]
+[DEBUG] 02:13:30:223 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[DEBUG] 02:13:30:526 kernel/(15892:15934): pcb:[3] recibido por dispatch
+[DEBUG] 02:13:30:527 kernel/(15892:15934): cpu_recieve_pcb_async :: cpu->busy:[FALSE]
+[INFO] 02:13:30:527 kernel/(15892:15934): pcb:[3] :: procesando respuesta de dispatch en condicion de desalojo:[IO_SYSCALL]
+[INFO] 02:13:30:527 kernel/(15892:15934): pcb:[3] :: [EXEC] => [BLOCKED]
+[DEBUG] 02:13:30:528 kernel/(15892:15934): post :: planner->stp_sem_dispatch
+[INFO] 02:13:30:720 kernel/(15892:15913): free_mem :: error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+[INFO] 02:13:30:723 kernel/(15892:15913): Consola terminada, socket:[14]
+[INFO] 02:13:30:725 kernel/(15892:15913): pcb:[2] :: estadisticas de procesamiento
+> instrucciones: 11
+> program counter: 11
+> estado final: COMPLETADO
+> uso de cpu: 1, tiempo total: 1006 msec
+> uso E/S: 0, tiempo total: 0 msec
+> tiempo en ejecucion: 1006 msec
+> tiempo total de proceso: 2103 msec
+[INFO] 02:13:30:726 kernel/(15892:15913): pcb:[2] :: finalizado
+[INFO] 02:13:34:030 kernel/(15892:15924): pcb:[1] :: [BLOCKED] => [READY]
+[INFO] 02:13:34:030 kernel/(15892:15914): pcb:[3] :: en ejecucion de E/S con duracion:[5000 msec]
+[DEBUG] 02:13:34:031 kernel/(15892:15915): wait :: planner->stp_sem_dispatch
+[INFO] 02:13:34:032 kernel/(15892:15915): pcb:[1] :: [READY] => [EXEC]
+[DEBUG] 02:13:34:033 kernel/(15892:15915): pcb:[1] enviado a CPU por dispatch
+[DEBUG] 02:13:34:033 kernel/(15892:15915): cpu_dispatch_pcb :: cpu->busy:[TRUE]
+[DEBUG] 02:13:34:034 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[DEBUG] 02:13:34:335 kernel/(15892:15941): pcb:[1] recibido por dispatch
+[DEBUG] 02:13:34:335 kernel/(15892:15941): cpu_recieve_pcb_async :: cpu->busy:[FALSE]
+[INFO] 02:13:34:336 kernel/(15892:15941): pcb:[1] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+[INFO] 02:13:34:336 kernel/(15892:15941): pcb:[1] :: [EXEC] => [EXIT]
+[DEBUG] 02:13:34:336 kernel/(15892:15941): pcb:[1] :: incrementa el grado de multiprogramacion por [EXIT]
+[DEBUG] 02:13:34:337 kernel/(15892:15941): post :: planner->stp_sem_dispatch
+[INFO] 02:13:34:837 kernel/(15892:15913): free_mem :: error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+[INFO] 02:13:34:838 kernel/(15892:15913): Consola terminada, socket:[12]
+[INFO] 02:13:34:838 kernel/(15892:15913): pcb:[1] :: estadisticas de procesamiento
+> instrucciones: 8
+> program counter: 8
+> estado final: COMPLETADO
+> uso de cpu: 2, tiempo total: 609 msec
+> uso E/S: 1, tiempo total: 5000 msec
+> tiempo en ejecucion: 5609 msec
+> tiempo total de proceso: 6689 msec
+[INFO] 02:13:34:839 kernel/(15892:15913): pcb:[1] :: finalizado
+[INFO] 02:13:39:038 kernel/(15892:15940): pcb:[3] :: [BLOCKED] => [READY]
+[DEBUG] 02:13:39:042 kernel/(15892:15915): wait :: planner->stp_sem_dispatch
+[INFO] 02:13:39:042 kernel/(15892:15915): pcb:[3] :: [READY] => [EXEC]
+[DEBUG] 02:13:39:044 kernel/(15892:15915): pcb:[3] enviado a CPU por dispatch
+[DEBUG] 02:13:39:045 kernel/(15892:15915): cpu_dispatch_pcb :: cpu->busy:[TRUE]
+[DEBUG] 02:13:39:048 kernel/(15892:15915): wait :: planner->stp_sem_plan
+[DEBUG] 02:13:39:350 kernel/(15892:15951): pcb:[3] recibido por dispatch
+[DEBUG] 02:13:39:350 kernel/(15892:15951): cpu_recieve_pcb_async :: cpu->busy:[FALSE]
+[INFO] 02:13:39:350 kernel/(15892:15951): pcb:[3] :: procesando respuesta de dispatch en condicion de desalojo:[EXIT_PROGRAM]
+[INFO] 02:13:39:350 kernel/(15892:15951): pcb:[3] :: [EXEC] => [EXIT]
+[DEBUG] 02:13:39:351 kernel/(15892:15951): pcb:[3] :: incrementa el grado de multiprogramacion por [EXIT]
+[DEBUG] 02:13:39:352 kernel/(15892:15951): post :: planner->stp_sem_dispatch
+[INFO] 02:13:39:853 kernel/(15892:15913): free_mem :: error al recibir la respuesta de descarga de memoria. Codigo de header:[911] incorrecto
+[INFO] 02:13:39:853 kernel/(15892:15913): Consola terminada, socket:[16]
+[INFO] 02:13:39:855 kernel/(15892:15913): pcb:[3] :: estadisticas de procesamiento
+> instrucciones: 8
+> program counter: 8
+> estado final: COMPLETADO
+> uso de cpu: 2, tiempo total: 607 msec
+> uso E/S: 1, tiempo total: 5000 msec
+> tiempo en ejecucion: 5607 msec
+> tiempo total de proceso: 10730 msec
+[INFO] 02:13:39:860 kernel/(15892:15913): pcb:[3] :: finalizado
