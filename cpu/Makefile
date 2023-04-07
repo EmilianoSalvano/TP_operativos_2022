@@ -12,7 +12,7 @@ OUTFILE = main.out
 #SRC contiene los nombres de los archivos fuente de codigo (.c)
 #En este caso quiero: encontrar los archivos de src (find ./src) de tipo file (-type f)
 #que tengan el nombre algo.c (-iname "*.c"). Esto me da strings de la siguiente forma "./src/suma.c"
-#para sacarle el "./src/" uso aguego (-exec basename {} \;). Queda una cosa asi:
+#para sacarle el "./src/" uso (-exec basename {} \;). Queda una cosa asi:
 # " find ./src -type f -iname "*.c" -exec basename {} \;" esto podria usarlo en la terminal.
 #Por ultimo, para usarlo aca, el shell indica que todo es un comando de shell:
 
