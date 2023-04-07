@@ -76,7 +76,7 @@ debug: makeshared_debug build
 	$(CC) $(CFLAGS) $< -o $@ $(LINK)
 
 
-#Si el directorio "dir" no existe (! -d .7dir) entonces lo crea (then mkdir obj). El "if" se es cierra con un "fi".
+#Si el directorio "dir" no existe (! -d .7dir) entonces lo crea (then mkdir obj). El "if" se cierra con un "fi".
 #NOTA: ver comando "make clean" para que recompile desde cero todos los obj.
 
 makefolder:
